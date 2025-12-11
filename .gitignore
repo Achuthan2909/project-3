@@ -1,0 +1,11 @@
+*.aux
+*.log
+*.out
+*.pdf
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+.DS_Store
+*.swp
+*.swo
+*~
