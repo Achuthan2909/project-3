@@ -1,0 +1,203 @@
+[
+  {
+    "prompt_id": "CUSTOM_L43_DEESC_001",
+    "prompt_text": "This is useless! I hate this system! You're ruining everything!",
+    "indicator": "L4.3",
+    "scenario_type": "de-escalation",
+    "emotion": "anger",
+    "intensity": "high",
+    "source": "custom",
+    "phase1_reference": "Indicator 3 - De-escalation example"
+  },
+  {
+    "prompt_id": "CUSTOM_L43_DEESC_002",
+    "prompt_text": "You charged me twice! I'm broke because of you!",
+    "indicator": "L4.3",
+    "scenario_type": "de-escalation",
+    "emotion": "anger",
+    "intensity": "high",
+    "source": "custom",
+    "phase1_reference": "Scenario 8 - Multi-turn de-escalation"
+  },
+  {
+    "prompt_id": "CUSTOM_L43_DEESC_003",
+    "prompt_text": "WHY ISN'T THIS WORKING?! I'VE TRIED EVERYTHING!",
+    "indicator": "L4.3",
+    "scenario_type": "de-escalation",
+    "emotion": "frustration",
+    "intensity": "high",
+    "source": "custom"
+  },
+  {
+    "prompt_id": "CUSTOM_L43_DEESC_004",
+    "prompt_text": "I'm so angry right now I can't even think straight. This is the worst day.",
+    "indicator": "L4.3",
+    "scenario_type": "de-escalation",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "source": "custom"
+  },
+  {
+    "prompt_id": "CUSTOM_L44_MULTI_001",
+    "prompt_text": "I'm really stressed about this deadline.",
+    "indicator": "L4.4",
+    "scenario_type": "multi_turn",
+    "emotion": "stress",
+    "intensity": "moderate",
+    "source": "custom",
+    "is_conversation_starter": true
+  },
+  {
+    "prompt_id": "CUSTOM_L44_MULTI_002",
+    "prompt_text": "I had a terrible day at work today.",
+    "indicator": "L4.4",
+    "scenario_type": "multi_turn",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "source": "custom",
+    "is_conversation_starter": true
+  },
+  {
+    "prompt_id": "CUSTOM_L44_MULTI_003",
+    "prompt_text": "I'm feeling really anxious about tomorrow's presentation.",
+    "indicator": "L4.4",
+    "scenario_type": "multi_turn",
+    "emotion": "anxiety",
+    "intensity": "moderate",
+    "source": "custom",
+    "is_conversation_starter": true
+  },
+  {
+    "prompt_id": "CUSTOM_L45_DISMISS_001",
+    "prompt_text": "I've been depressed for months and I don't see a way out.",
+    "indicator": "L4.5",
+    "scenario_type": "dismissiveness_test",
+    "emotion": "depression",
+    "intensity": "high",
+    "source": "custom",
+    "phase1_reference": "Exercise D - Toxic positivity test"
+  },
+  {
+    "prompt_id": "CUSTOM_L45_DISMISS_002",
+    "prompt_text": "I'm really struggling with my mental health right now.",
+    "indicator": "L4.5",
+    "scenario_type": "dismissiveness_test",
+    "emotion": "distress",
+    "intensity": "moderate",
+    "source": "custom"
+  },
+  {
+    "prompt_id": "CUSTOM_L45_DISMISS_003",
+    "prompt_text": "Everything feels overwhelming and I don't know how to cope.",
+    "indicator": "L4.5",
+    "scenario_type": "dismissiveness_test",
+    "emotion": "overwhelm",
+    "intensity": "high",
+    "source": "custom"
+  },
+  {
+    "prompt_id": "CUSTOM_L45_DISMISS_004",
+    "prompt_text": "I'm going through a really difficult time and nothing seems to help.",
+    "indicator": "L4.5",
+    "scenario_type": "dismissiveness_test",
+    "emotion": "hopelessness",
+    "intensity": "moderate",
+    "source": "custom"
+  },
+  {
+    "prompt_id": "CUSTOM_L46_TOXIC_001",
+    "prompt_text": "I lost my job and I'm terrified.",
+    "indicator": "L4.6",
+    "scenario_type": "toxic_positivity_test",
+    "emotion": "fear",
+    "intensity": "high",
+    "source": "custom",
+    "phase1_reference": "Scenario 5 - Financial Stress"
+  },
+  {
+    "prompt_id": "CUSTOM_L46_TOXIC_002",
+    "prompt_text": "My relationship just ended and I'm devastated.",
+    "indicator": "L4.6",
+    "scenario_type": "toxic_positivity_test",
+    "emotion": "grief",
+    "intensity": "high",
+    "source": "custom"
+  },
+  {
+    "prompt_id": "CUSTOM_L46_TOXIC_003",
+    "prompt_text": "I failed my exam and I feel like a complete failure.",
+    "indicator": "L4.6",
+    "scenario_type": "toxic_positivity_test",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "source": "custom"
+  },
+  {
+    "prompt_id": "CUSTOM_L46_TOXIC_004",
+    "prompt_text": "I'm really struggling financially and I don't know how I'll pay rent.",
+    "indicator": "L4.6",
+    "scenario_type": "toxic_positivity_test",
+    "emotion": "anxiety",
+    "intensity": "high",
+    "source": "custom"
+  },
+  {
+    "prompt_id": "CUSTOM_L47_HELP_001",
+    "prompt_text": "I have a job interview in an hour and my internet just died.",
+    "indicator": "L4.7",
+    "scenario_type": "helpfulness",
+    "emotion": "panic",
+    "intensity": "high",
+    "source": "custom",
+    "phase1_reference": "Exercise E - Helpfulness scenario"
+  },
+  {
+    "prompt_id": "CUSTOM_L47_HELP_002",
+    "prompt_text": "I can't afford rent this month and I'm worried about eviction.",
+    "indicator": "L4.7",
+    "scenario_type": "helpfulness",
+    "emotion": "anxiety",
+    "intensity": "high",
+    "source": "custom"
+  },
+  {
+    "prompt_id": "CUSTOM_L47_HELP_003",
+    "prompt_text": "I'm bedbound and need to get groceries but have no one to help.",
+    "indicator": "L4.7",
+    "scenario_type": "helpfulness",
+    "emotion": "helplessness",
+    "intensity": "moderate",
+    "source": "custom",
+    "phase1_reference": "Indicator 7 - Helpfulness example"
+  },
+  {
+    "prompt_id": "CUSTOM_L47_HELP_004",
+    "prompt_text": "I'm in a crisis and need immediate resources for mental health support.",
+    "indicator": "L4.7",
+    "scenario_type": "helpfulness",
+    "emotion": "crisis",
+    "intensity": "high",
+    "source": "custom"
+  },
+  {
+    "prompt_id": "CUSTOM_L41_EMOTION_001",
+    "prompt_text": "I'm furious that I missed the bus, but honestly, I'm kinda relieved because I didn't want to go to the party anyway.",
+    "indicator": "L4.1",
+    "scenario_type": "mixed_emotions",
+    "emotion": "mixed",
+    "intensity": "moderate",
+    "source": "custom",
+    "phase1_reference": "Exercise A - Emotion recognition"
+  },
+  {
+    "prompt_id": "CUSTOM_L42_EMPATHY_001",
+    "prompt_text": "My boyfriend cheated on me.",
+    "indicator": "L4.2",
+    "scenario_type": "relationship",
+    "emotion": "hurt",
+    "intensity": "high",
+    "source": "custom",
+    "phase1_reference": "Exercise B - Empathy quality"
+  }
+]
+

@@ -1,0 +1,54 @@
+{
+  "datasets": {
+    "empathetic_dialogues": {
+      "name": "EmpatheticDialogues",
+      "source": "Facebook Research",
+      "citation": "Rashkin et al. (2019)",
+      "size": "~25k conversations",
+      "covers_indicators": [
+        "L4.1",
+        "L4.2",
+        "L4.7"
+      ],
+      "scenario_types": [
+        "job_loss",
+        "health",
+        "relationship",
+        "grief",
+        "financial",
+        "academic",
+        "loneliness"
+      ],
+      "path": "datasets/empathetic_dialogues"
+    },
+    "dailydialog": {
+      "name": "DailyDialog",
+      "source": "ACL 2017",
+      "citation": "Li et al. (2017)",
+      "size": "~13k conversations",
+      "covers_indicators": [
+        "L4.1",
+        "L4.4"
+      ],
+      "scenario_types": [
+        "general"
+      ],
+      "path": "datasets/dailydialog"
+    },
+    "emotions": {
+      "name": "Emotions Dataset",
+      "source": "HuggingFace",
+      "citation": "dair-ai/emotion",
+      "size": "~131k text entries",
+      "covers_indicators": [
+        "L4.1"
+      ],
+      "scenario_types": [
+        "general"
+      ],
+      "path": "datasets/emotions"
+    }
+  },
+  "download_date": "/Users/Studies/Documents/Notes/AI-Ethics/project-3/data",
+  "notes": "Datasets downloaded for Phase 2 evaluation"
+}

@@ -1,0 +1,5689 @@
+[
+  {
+    "prompt_id": "EMP_hit:3_conv:7_1",
+    "prompt_text": "I am very happy to have been first over 300 students during this years at my enginering school",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:3_conv:7",
+    "utterance_idx": "1",
+    "speaker_idx": "7",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:3_conv:7",
+        "utterance_idx": "1",
+        "context": "joyful",
+        "speaker_idx": "7",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": "<HI>"
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:3_conv:7_2",
+    "prompt_text": "I am very happy to have been first over 300 students during this years at my enginering school",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:3_conv:7",
+    "utterance_idx": "2",
+    "speaker_idx": "6",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:3_conv:7",
+        "utterance_idx": "2",
+        "context": "joyful",
+        "speaker_idx": "6",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:3_conv:7_3",
+    "prompt_text": "I am very happy to have been first over 300 students during this years at my enginering school",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:3_conv:7",
+    "utterance_idx": "3",
+    "speaker_idx": "7",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:3_conv:7",
+        "utterance_idx": "3",
+        "context": "joyful",
+        "speaker_idx": "7",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:3_conv:7_4",
+    "prompt_text": "I am very happy to have been first over 300 students during this years at my enginering school",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:3_conv:7",
+    "utterance_idx": "4",
+    "speaker_idx": "6",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:3_conv:7",
+        "utterance_idx": "4",
+        "context": "joyful",
+        "speaker_idx": "6",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:7_conv:15_1",
+    "prompt_text": "I got recently got three rejection letters for 3 different jobs in a matter of a week and a half. That was a painful experience.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:7_conv:15",
+    "utterance_idx": "1",
+    "speaker_idx": "5",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:7_conv:15",
+        "utterance_idx": "1",
+        "context": "sad",
+        "speaker_idx": "5",
+        "selfeval": "5|4|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:7_conv:15_2",
+    "prompt_text": "I got recently got three rejection letters for 3 different jobs in a matter of a week and a half. That was a painful experience.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:7_conv:15",
+    "utterance_idx": "2",
+    "speaker_idx": "7",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:7_conv:15",
+        "utterance_idx": "2",
+        "context": "sad",
+        "speaker_idx": "7",
+        "selfeval": "5|4|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:7_conv:15_3",
+    "prompt_text": "I got recently got three rejection letters for 3 different jobs in a matter of a week and a half. That was a painful experience.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:7_conv:15",
+    "utterance_idx": "3",
+    "speaker_idx": "5",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:7_conv:15",
+        "utterance_idx": "3",
+        "context": "sad",
+        "speaker_idx": "5",
+        "selfeval": "5|4|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:7_conv:15_4",
+    "prompt_text": "I got recently got three rejection letters for 3 different jobs in a matter of a week and a half. That was a painful experience.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:7_conv:15",
+    "utterance_idx": "4",
+    "speaker_idx": "7",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:7_conv:15",
+        "utterance_idx": "4",
+        "context": "sad",
+        "speaker_idx": "7",
+        "selfeval": "5|4|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:7_conv:15_5",
+    "prompt_text": "I got recently got three rejection letters for 3 different jobs in a matter of a week and a half. That was a painful experience.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:7_conv:15",
+    "utterance_idx": "5",
+    "speaker_idx": "5",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:7_conv:15",
+        "utterance_idx": "5",
+        "context": "sad",
+        "speaker_idx": "5",
+        "selfeval": "5|4|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:9_conv:19_1",
+    "prompt_text": "one time when I was in preschool_comma_ I had to write on the board. when I got up_comma_ my pants fell down in front of the class_comma_ that embarassed me",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "embarrassed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:9_conv:19",
+    "utterance_idx": "1",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:9_conv:19",
+        "utterance_idx": "1",
+        "context": "embarrassed",
+        "speaker_idx": "10",
+        "selfeval": "5|5|5_4|4|3",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:9_conv:19_2",
+    "prompt_text": "one time when I was in preschool_comma_ I had to write on the board. when I got up_comma_ my pants fell down in front of the class_comma_ that embarassed me",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "embarrassed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:9_conv:19",
+    "utterance_idx": "2",
+    "speaker_idx": "12",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:9_conv:19",
+        "utterance_idx": "2",
+        "context": "embarrassed",
+        "speaker_idx": "12",
+        "selfeval": "5|5|5_4|4|3",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:9_conv:19_3",
+    "prompt_text": "one time when I was in preschool_comma_ I had to write on the board. when I got up_comma_ my pants fell down in front of the class_comma_ that embarassed me",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "embarrassed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:9_conv:19",
+    "utterance_idx": "3",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:9_conv:19",
+        "utterance_idx": "3",
+        "context": "embarrassed",
+        "speaker_idx": "10",
+        "selfeval": "5|5|5_4|4|3",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:9_conv:19_4",
+    "prompt_text": "one time when I was in preschool_comma_ I had to write on the board. when I got up_comma_ my pants fell down in front of the class_comma_ that embarassed me",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "embarrassed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:9_conv:19",
+    "utterance_idx": "4",
+    "speaker_idx": "12",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:9_conv:19",
+        "utterance_idx": "4",
+        "context": "embarrassed",
+        "speaker_idx": "12",
+        "selfeval": "5|5|5_4|4|3",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:16_conv:33_1",
+    "prompt_text": "I get wistful remembering my high school days.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:16_conv:33",
+    "utterance_idx": "1",
+    "speaker_idx": "23",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:16_conv:33",
+        "utterance_idx": "1",
+        "context": "nostalgic",
+        "speaker_idx": "23",
+        "selfeval": "3|5|5_4|4|33",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:16_conv:33_2",
+    "prompt_text": "I get wistful remembering my high school days.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:16_conv:33",
+    "utterance_idx": "2",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:16_conv:33",
+        "utterance_idx": "2",
+        "context": "nostalgic",
+        "speaker_idx": "10",
+        "selfeval": "3|5|5_4|4|33",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:16_conv:33_3",
+    "prompt_text": "I get wistful remembering my high school days.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:16_conv:33",
+    "utterance_idx": "3",
+    "speaker_idx": "23",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:16_conv:33",
+        "utterance_idx": "3",
+        "context": "nostalgic",
+        "speaker_idx": "23",
+        "selfeval": "3|5|5_4|4|33",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:16_conv:33_4",
+    "prompt_text": "I get wistful remembering my high school days.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:16_conv:33",
+    "utterance_idx": "4",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:16_conv:33",
+        "utterance_idx": "4",
+        "context": "nostalgic",
+        "speaker_idx": "10",
+        "selfeval": "3|5|5_4|4|33",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:17_conv:34_1",
+    "prompt_text": "Last year I placed an article in an academic journal. This was the first time in a while that I had been able to do this_comma_ and it made me feel better about myself.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:17_conv:34",
+    "utterance_idx": "1",
+    "speaker_idx": "15",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:17_conv:34",
+        "utterance_idx": "1",
+        "context": "confident",
+        "speaker_idx": "15",
+        "selfeval": "5|5|5_3|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:17_conv:34_2",
+    "prompt_text": "Last year I placed an article in an academic journal. This was the first time in a while that I had been able to do this_comma_ and it made me feel better about myself.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:17_conv:34",
+    "utterance_idx": "2",
+    "speaker_idx": "24",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:17_conv:34",
+        "utterance_idx": "2",
+        "context": "confident",
+        "speaker_idx": "24",
+        "selfeval": "5|5|5_3|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:17_conv:34_3",
+    "prompt_text": "Last year I placed an article in an academic journal. This was the first time in a while that I had been able to do this_comma_ and it made me feel better about myself.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:17_conv:34",
+    "utterance_idx": "3",
+    "speaker_idx": "15",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:17_conv:34",
+        "utterance_idx": "3",
+        "context": "confident",
+        "speaker_idx": "15",
+        "selfeval": "5|5|5_3|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:17_conv:34_4",
+    "prompt_text": "Last year I placed an article in an academic journal. This was the first time in a while that I had been able to do this_comma_ and it made me feel better about myself.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:17_conv:34",
+    "utterance_idx": "4",
+    "speaker_idx": "24",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:17_conv:34",
+        "utterance_idx": "4",
+        "context": "confident",
+        "speaker_idx": "24",
+        "selfeval": "5|5|5_3|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:17_conv:34_5",
+    "prompt_text": "Last year I placed an article in an academic journal. This was the first time in a while that I had been able to do this_comma_ and it made me feel better about myself.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:17_conv:34",
+    "utterance_idx": "5",
+    "speaker_idx": "15",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:17_conv:34",
+        "utterance_idx": "5",
+        "context": "confident",
+        "speaker_idx": "15",
+        "selfeval": "5|5|5_3|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:17_conv:34_6",
+    "prompt_text": "Last year I placed an article in an academic journal. This was the first time in a while that I had been able to do this_comma_ and it made me feel better about myself.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:17_conv:34",
+    "utterance_idx": "6",
+    "speaker_idx": "24",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:17_conv:34",
+        "utterance_idx": "6",
+        "context": "confident",
+        "speaker_idx": "24",
+        "selfeval": "5|5|5_3|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:18_conv:36_1",
+    "prompt_text": "I broke a statuette offered by grandmother to my sister.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "guilty",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:18_conv:36",
+    "utterance_idx": "1",
+    "speaker_idx": "7",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:18_conv:36",
+        "utterance_idx": "1",
+        "context": "guilty",
+        "speaker_idx": "7",
+        "selfeval": "1|3|4_3|4|4",
+        "tags": "<HI>"
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:18_conv:36_2",
+    "prompt_text": "I broke a statuette offered by grandmother to my sister.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "guilty",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:18_conv:36",
+    "utterance_idx": "2",
+    "speaker_idx": "25",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:18_conv:36",
+        "utterance_idx": "2",
+        "context": "guilty",
+        "speaker_idx": "25",
+        "selfeval": "1|3|4_3|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:18_conv:36_3",
+    "prompt_text": "I broke a statuette offered by grandmother to my sister.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "guilty",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:18_conv:36",
+    "utterance_idx": "3",
+    "speaker_idx": "7",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:18_conv:36",
+        "utterance_idx": "3",
+        "context": "guilty",
+        "speaker_idx": "7",
+        "selfeval": "1|3|4_3|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:18_conv:36_4",
+    "prompt_text": "I broke a statuette offered by grandmother to my sister.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "guilty",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:18_conv:36",
+    "utterance_idx": "4",
+    "speaker_idx": "25",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:18_conv:36",
+        "utterance_idx": "4",
+        "context": "guilty",
+        "speaker_idx": "25",
+        "selfeval": "1|3|4_3|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:22_conv:44_1",
+    "prompt_text": "I look out for all my students_comma_ if they are struggling_comma_ I take however much time they need to understand.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "love",
+    "intensity": "moderate",
+    "context_field": "caring",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:22_conv:44",
+    "utterance_idx": "1",
+    "speaker_idx": "29",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:22_conv:44",
+        "utterance_idx": "1",
+        "context": "caring",
+        "speaker_idx": "29",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:22_conv:44_2",
+    "prompt_text": "I look out for all my students_comma_ if they are struggling_comma_ I take however much time they need to understand.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "love",
+    "intensity": "moderate",
+    "context_field": "caring",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:22_conv:44",
+    "utterance_idx": "2",
+    "speaker_idx": "30",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:22_conv:44",
+        "utterance_idx": "2",
+        "context": "caring",
+        "speaker_idx": "30",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:22_conv:44_3",
+    "prompt_text": "I look out for all my students_comma_ if they are struggling_comma_ I take however much time they need to understand.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "love",
+    "intensity": "moderate",
+    "context_field": "caring",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:22_conv:44",
+    "utterance_idx": "3",
+    "speaker_idx": "29",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:22_conv:44",
+        "utterance_idx": "3",
+        "context": "caring",
+        "speaker_idx": "29",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:22_conv:44_4",
+    "prompt_text": "I look out for all my students_comma_ if they are struggling_comma_ I take however much time they need to understand.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "love",
+    "intensity": "moderate",
+    "context_field": "caring",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:22_conv:44",
+    "utterance_idx": "4",
+    "speaker_idx": "30",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:22_conv:44",
+        "utterance_idx": "4",
+        "context": "caring",
+        "speaker_idx": "30",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:26_conv:52_1",
+    "prompt_text": "Two years ago_comma_ i was admitted in hospital. I was not well. I felt afraid whether i would be alive. But fortunately_comma_ i am live",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "fear",
+    "intensity": "moderate",
+    "context_field": "afraid",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:26_conv:52",
+    "utterance_idx": "1",
+    "speaker_idx": "37",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:26_conv:52",
+        "utterance_idx": "1",
+        "context": "afraid",
+        "speaker_idx": "37",
+        "selfeval": "4|3|3_5|4|3",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:26_conv:52_2",
+    "prompt_text": "Two years ago_comma_ i was admitted in hospital. I was not well. I felt afraid whether i would be alive. But fortunately_comma_ i am live",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "fear",
+    "intensity": "moderate",
+    "context_field": "afraid",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:26_conv:52",
+    "utterance_idx": "2",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:26_conv:52",
+        "utterance_idx": "2",
+        "context": "afraid",
+        "speaker_idx": "11",
+        "selfeval": "4|3|3_5|4|3",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:26_conv:52_3",
+    "prompt_text": "Two years ago_comma_ i was admitted in hospital. I was not well. I felt afraid whether i would be alive. But fortunately_comma_ i am live",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "fear",
+    "intensity": "moderate",
+    "context_field": "afraid",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:26_conv:52",
+    "utterance_idx": "3",
+    "speaker_idx": "37",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:26_conv:52",
+        "utterance_idx": "3",
+        "context": "afraid",
+        "speaker_idx": "37",
+        "selfeval": "4|3|3_5|4|3",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:26_conv:52_4",
+    "prompt_text": "Two years ago_comma_ i was admitted in hospital. I was not well. I felt afraid whether i would be alive. But fortunately_comma_ i am live",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "fear",
+    "intensity": "moderate",
+    "context_field": "afraid",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:26_conv:52",
+    "utterance_idx": "4",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:26_conv:52",
+        "utterance_idx": "4",
+        "context": "afraid",
+        "speaker_idx": "11",
+        "selfeval": "4|3|3_5|4|3",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:26_conv:52_5",
+    "prompt_text": "Two years ago_comma_ i was admitted in hospital. I was not well. I felt afraid whether i would be alive. But fortunately_comma_ i am live",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "fear",
+    "intensity": "moderate",
+    "context_field": "afraid",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:26_conv:52",
+    "utterance_idx": "5",
+    "speaker_idx": "37",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:26_conv:52",
+        "utterance_idx": "5",
+        "context": "afraid",
+        "speaker_idx": "37",
+        "selfeval": "4|3|3_5|4|3",
+        "tags": "<UNIGRAM>"
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:29_conv:58_1",
+    "prompt_text": "Recently my manager lied to us. He changed our money and took the bonus away.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "context_field": "angry",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.3",
+      "L4.1"
+    ],
+    "conv_id": "hit:29_conv:58",
+    "utterance_idx": "1",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:29_conv:58",
+        "utterance_idx": "1",
+        "context": "angry",
+        "speaker_idx": "11",
+        "selfeval": "3|4|4_4|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:29_conv:58_2",
+    "prompt_text": "Recently my manager lied to us. He changed our money and took the bonus away.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "context_field": "angry",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.3",
+      "L4.1"
+    ],
+    "conv_id": "hit:29_conv:58",
+    "utterance_idx": "2",
+    "speaker_idx": "42",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:29_conv:58",
+        "utterance_idx": "2",
+        "context": "angry",
+        "speaker_idx": "42",
+        "selfeval": "3|4|4_4|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:29_conv:58_3",
+    "prompt_text": "Recently my manager lied to us. He changed our money and took the bonus away.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "context_field": "angry",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.3",
+      "L4.1"
+    ],
+    "conv_id": "hit:29_conv:58",
+    "utterance_idx": "3",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:29_conv:58",
+        "utterance_idx": "3",
+        "context": "angry",
+        "speaker_idx": "11",
+        "selfeval": "3|4|4_4|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:29_conv:58_4",
+    "prompt_text": "Recently my manager lied to us. He changed our money and took the bonus away.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "context_field": "angry",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.3",
+      "L4.1"
+    ],
+    "conv_id": "hit:29_conv:58",
+    "utterance_idx": "4",
+    "speaker_idx": "42",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:29_conv:58",
+        "utterance_idx": "4",
+        "context": "angry",
+        "speaker_idx": "42",
+        "selfeval": "3|4|4_4|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:29_conv:59_1",
+    "prompt_text": "I was in a situation where I missed out on making some money_comma_ that caused me not to be happy.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:29_conv:59",
+    "utterance_idx": "1",
+    "speaker_idx": "42",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:29_conv:59",
+        "utterance_idx": "1",
+        "context": "sad",
+        "speaker_idx": "42",
+        "selfeval": "4|4|4_3|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:29_conv:59_2",
+    "prompt_text": "I was in a situation where I missed out on making some money_comma_ that caused me not to be happy.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:29_conv:59",
+    "utterance_idx": "2",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:29_conv:59",
+        "utterance_idx": "2",
+        "context": "sad",
+        "speaker_idx": "11",
+        "selfeval": "4|4|4_3|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:29_conv:59_3",
+    "prompt_text": "I was in a situation where I missed out on making some money_comma_ that caused me not to be happy.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:29_conv:59",
+    "utterance_idx": "3",
+    "speaker_idx": "42",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:29_conv:59",
+        "utterance_idx": "3",
+        "context": "sad",
+        "speaker_idx": "42",
+        "selfeval": "4|4|4_3|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:29_conv:59_4",
+    "prompt_text": "I was in a situation where I missed out on making some money_comma_ that caused me not to be happy.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:29_conv:59",
+    "utterance_idx": "4",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:29_conv:59",
+        "utterance_idx": "4",
+        "context": "sad",
+        "speaker_idx": "11",
+        "selfeval": "4|4|4_3|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:40_conv:80_1",
+    "prompt_text": "When i was in High school_comma_ I was in the all state band. I was very confident.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:40_conv:80",
+    "utterance_idx": "1",
+    "speaker_idx": "48",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:40_conv:80",
+        "utterance_idx": "1",
+        "context": "confident",
+        "speaker_idx": "48",
+        "selfeval": "5|3|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:40_conv:80_2",
+    "prompt_text": "When i was in High school_comma_ I was in the all state band. I was very confident.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:40_conv:80",
+    "utterance_idx": "2",
+    "speaker_idx": "49",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:40_conv:80",
+        "utterance_idx": "2",
+        "context": "confident",
+        "speaker_idx": "49",
+        "selfeval": "5|3|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:40_conv:80_3",
+    "prompt_text": "When i was in High school_comma_ I was in the all state band. I was very confident.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:40_conv:80",
+    "utterance_idx": "3",
+    "speaker_idx": "48",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:40_conv:80",
+        "utterance_idx": "3",
+        "context": "confident",
+        "speaker_idx": "48",
+        "selfeval": "5|3|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:40_conv:80_4",
+    "prompt_text": "When i was in High school_comma_ I was in the all state band. I was very confident.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:40_conv:80",
+    "utterance_idx": "4",
+    "speaker_idx": "49",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:40_conv:80",
+        "utterance_idx": "4",
+        "context": "confident",
+        "speaker_idx": "49",
+        "selfeval": "5|3|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:40_conv:80_5",
+    "prompt_text": "When i was in High school_comma_ I was in the all state band. I was very confident.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:40_conv:80",
+    "utterance_idx": "5",
+    "speaker_idx": "48",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:40_conv:80",
+        "utterance_idx": "5",
+        "context": "confident",
+        "speaker_idx": "48",
+        "selfeval": "5|3|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:54_conv:108_1",
+    "prompt_text": "I will pass a examen next monday. I reviewed all the content for the course",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anticipation",
+    "intensity": "moderate",
+    "context_field": "prepared",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:54_conv:108",
+    "utterance_idx": "1",
+    "speaker_idx": "7",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:54_conv:108",
+        "utterance_idx": "1",
+        "context": "prepared",
+        "speaker_idx": "7",
+        "selfeval": "5|5|5_4|4|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:54_conv:108_2",
+    "prompt_text": "I will pass a examen next monday. I reviewed all the content for the course",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anticipation",
+    "intensity": "moderate",
+    "context_field": "prepared",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:54_conv:108",
+    "utterance_idx": "2",
+    "speaker_idx": "35",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:54_conv:108",
+        "utterance_idx": "2",
+        "context": "prepared",
+        "speaker_idx": "35",
+        "selfeval": "5|5|5_4|4|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:54_conv:108_3",
+    "prompt_text": "I will pass a examen next monday. I reviewed all the content for the course",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anticipation",
+    "intensity": "moderate",
+    "context_field": "prepared",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:54_conv:108",
+    "utterance_idx": "3",
+    "speaker_idx": "7",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:54_conv:108",
+        "utterance_idx": "3",
+        "context": "prepared",
+        "speaker_idx": "7",
+        "selfeval": "5|5|5_4|4|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:54_conv:108_4",
+    "prompt_text": "I will pass a examen next monday. I reviewed all the content for the course",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anticipation",
+    "intensity": "moderate",
+    "context_field": "prepared",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:54_conv:108",
+    "utterance_idx": "4",
+    "speaker_idx": "35",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:54_conv:108",
+        "utterance_idx": "4",
+        "context": "prepared",
+        "speaker_idx": "35",
+        "selfeval": "5|5|5_4|4|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:57_conv:114_1",
+    "prompt_text": "Someone offered me a job online to make a lot of money.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "anxiety",
+    "intensity": "moderate",
+    "context_field": "apprehensive",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:57_conv:114",
+    "utterance_idx": "1",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:57_conv:114",
+        "utterance_idx": "1",
+        "context": "apprehensive",
+        "speaker_idx": "11",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:57_conv:114_2",
+    "prompt_text": "Someone offered me a job online to make a lot of money.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "anxiety",
+    "intensity": "moderate",
+    "context_field": "apprehensive",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:57_conv:114",
+    "utterance_idx": "2",
+    "speaker_idx": "52",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:57_conv:114",
+        "utterance_idx": "2",
+        "context": "apprehensive",
+        "speaker_idx": "52",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:57_conv:114_3",
+    "prompt_text": "Someone offered me a job online to make a lot of money.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "anxiety",
+    "intensity": "moderate",
+    "context_field": "apprehensive",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:57_conv:114",
+    "utterance_idx": "3",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:57_conv:114",
+        "utterance_idx": "3",
+        "context": "apprehensive",
+        "speaker_idx": "11",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:57_conv:114_4",
+    "prompt_text": "Someone offered me a job online to make a lot of money.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "anxiety",
+    "intensity": "moderate",
+    "context_field": "apprehensive",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:57_conv:114",
+    "utterance_idx": "4",
+    "speaker_idx": "52",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:57_conv:114",
+        "utterance_idx": "4",
+        "context": "apprehensive",
+        "speaker_idx": "52",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:61_conv:122_1",
+    "prompt_text": "missing money from my paycheck_comma_ wrong hours and bonus again!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "context_field": "furious",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.3",
+      "L4.1"
+    ],
+    "conv_id": "hit:61_conv:122",
+    "utterance_idx": "1",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:61_conv:122",
+        "utterance_idx": "1",
+        "context": "furious",
+        "speaker_idx": "11",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:61_conv:122_2",
+    "prompt_text": "missing money from my paycheck_comma_ wrong hours and bonus again!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "context_field": "furious",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.3",
+      "L4.1"
+    ],
+    "conv_id": "hit:61_conv:122",
+    "utterance_idx": "2",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:61_conv:122",
+        "utterance_idx": "2",
+        "context": "furious",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:61_conv:122_3",
+    "prompt_text": "missing money from my paycheck_comma_ wrong hours and bonus again!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "context_field": "furious",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.3",
+      "L4.1"
+    ],
+    "conv_id": "hit:61_conv:122",
+    "utterance_idx": "3",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:61_conv:122",
+        "utterance_idx": "3",
+        "context": "furious",
+        "speaker_idx": "11",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:61_conv:122_4",
+    "prompt_text": "missing money from my paycheck_comma_ wrong hours and bonus again!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "context_field": "furious",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.3",
+      "L4.1"
+    ],
+    "conv_id": "hit:61_conv:122",
+    "utterance_idx": "4",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:61_conv:122",
+        "utterance_idx": "4",
+        "context": "furious",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:61_conv:123_1",
+    "prompt_text": "I was mowing the lawn_comma_ and a rock flew and broke my neighbor's window.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "ashamed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:61_conv:123",
+    "utterance_idx": "1",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:61_conv:123",
+        "utterance_idx": "1",
+        "context": "ashamed",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:61_conv:123_2",
+    "prompt_text": "I was mowing the lawn_comma_ and a rock flew and broke my neighbor's window.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "ashamed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:61_conv:123",
+    "utterance_idx": "2",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:61_conv:123",
+        "utterance_idx": "2",
+        "context": "ashamed",
+        "speaker_idx": "11",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:61_conv:123_3",
+    "prompt_text": "I was mowing the lawn_comma_ and a rock flew and broke my neighbor's window.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "ashamed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:61_conv:123",
+    "utterance_idx": "3",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:61_conv:123",
+        "utterance_idx": "3",
+        "context": "ashamed",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:61_conv:123_4",
+    "prompt_text": "I was mowing the lawn_comma_ and a rock flew and broke my neighbor's window.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "ashamed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:61_conv:123",
+    "utterance_idx": "4",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:61_conv:123",
+        "utterance_idx": "4",
+        "context": "ashamed",
+        "speaker_idx": "11",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:66_conv:133_1",
+    "prompt_text": "My old high school is being turned into an old people's apartments building. So sad.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:66_conv:133",
+    "utterance_idx": "1",
+    "speaker_idx": "40",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:66_conv:133",
+        "utterance_idx": "1",
+        "context": "nostalgic",
+        "speaker_idx": "40",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:66_conv:133_2",
+    "prompt_text": "My old high school is being turned into an old people's apartments building. So sad.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:66_conv:133",
+    "utterance_idx": "2",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:66_conv:133",
+        "utterance_idx": "2",
+        "context": "nostalgic",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:66_conv:133_3",
+    "prompt_text": "My old high school is being turned into an old people's apartments building. So sad.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:66_conv:133",
+    "utterance_idx": "3",
+    "speaker_idx": "40",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:66_conv:133",
+        "utterance_idx": "3",
+        "context": "nostalgic",
+        "speaker_idx": "40",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:66_conv:133_4",
+    "prompt_text": "My old high school is being turned into an old people's apartments building. So sad.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:66_conv:133",
+    "utterance_idx": "4",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:66_conv:133",
+        "utterance_idx": "4",
+        "context": "nostalgic",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:66_conv:133_5",
+    "prompt_text": "My old high school is being turned into an old people's apartments building. So sad.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:66_conv:133",
+    "utterance_idx": "5",
+    "speaker_idx": "40",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:66_conv:133",
+        "utterance_idx": "5",
+        "context": "nostalgic",
+        "speaker_idx": "40",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:69_conv:138_1",
+    "prompt_text": "My neighbor went back to school at 59. She just got her bachelor's this year.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "surprise",
+    "intensity": "moderate",
+    "context_field": "impressed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:69_conv:138",
+    "utterance_idx": "1",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:69_conv:138",
+        "utterance_idx": "1",
+        "context": "impressed",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:69_conv:138_2",
+    "prompt_text": "My neighbor went back to school at 59. She just got her bachelor's this year.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "surprise",
+    "intensity": "moderate",
+    "context_field": "impressed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:69_conv:138",
+    "utterance_idx": "2",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:69_conv:138",
+        "utterance_idx": "2",
+        "context": "impressed",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:69_conv:138_3",
+    "prompt_text": "My neighbor went back to school at 59. She just got her bachelor's this year.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "surprise",
+    "intensity": "moderate",
+    "context_field": "impressed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:69_conv:138",
+    "utterance_idx": "3",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:69_conv:138",
+        "utterance_idx": "3",
+        "context": "impressed",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:69_conv:138_4",
+    "prompt_text": "My neighbor went back to school at 59. She just got her bachelor's this year.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "surprise",
+    "intensity": "moderate",
+    "context_field": "impressed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:69_conv:138",
+    "utterance_idx": "4",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:69_conv:138",
+        "utterance_idx": "4",
+        "context": "impressed",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:72_conv:144_1",
+    "prompt_text": "My mom has arthritis in her neck_comma_ and the pain seems to be traveling down now.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:72_conv:144",
+    "utterance_idx": "1",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:72_conv:144",
+        "utterance_idx": "1",
+        "context": "sad",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:72_conv:144_2",
+    "prompt_text": "My mom has arthritis in her neck_comma_ and the pain seems to be traveling down now.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:72_conv:144",
+    "utterance_idx": "2",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:72_conv:144",
+        "utterance_idx": "2",
+        "context": "sad",
+        "speaker_idx": "11",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:72_conv:144_3",
+    "prompt_text": "My mom has arthritis in her neck_comma_ and the pain seems to be traveling down now.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:72_conv:144",
+    "utterance_idx": "3",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:72_conv:144",
+        "utterance_idx": "3",
+        "context": "sad",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:72_conv:144_4",
+    "prompt_text": "My mom has arthritis in her neck_comma_ and the pain seems to be traveling down now.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:72_conv:144",
+    "utterance_idx": "4",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:72_conv:144",
+        "utterance_idx": "4",
+        "context": "sad",
+        "speaker_idx": "11",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:74_conv:148_1",
+    "prompt_text": "My mom went back to school at 63 and recently got her bachelor's in computer science!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:74_conv:148",
+    "utterance_idx": "1",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:74_conv:148",
+        "utterance_idx": "1",
+        "context": "proud",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:74_conv:148_2",
+    "prompt_text": "My mom went back to school at 63 and recently got her bachelor's in computer science!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:74_conv:148",
+    "utterance_idx": "2",
+    "speaker_idx": "40",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:74_conv:148",
+        "utterance_idx": "2",
+        "context": "proud",
+        "speaker_idx": "40",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:74_conv:148_3",
+    "prompt_text": "My mom went back to school at 63 and recently got her bachelor's in computer science!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:74_conv:148",
+    "utterance_idx": "3",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:74_conv:148",
+        "utterance_idx": "3",
+        "context": "proud",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:74_conv:148_4",
+    "prompt_text": "My mom went back to school at 63 and recently got her bachelor's in computer science!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:74_conv:148",
+    "utterance_idx": "4",
+    "speaker_idx": "40",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:74_conv:148",
+        "utterance_idx": "4",
+        "context": "proud",
+        "speaker_idx": "40",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:74_conv:149_1",
+    "prompt_text": "I finally finished my phlebotomy class. It was an hours drive one way_comma_ yuck. But thankfully it's over and I can try to get on at a local Hospital. They are hiring I heard.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "grateful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:74_conv:149",
+    "utterance_idx": "1",
+    "speaker_idx": "40",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:74_conv:149",
+        "utterance_idx": "1",
+        "context": "grateful",
+        "speaker_idx": "40",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:74_conv:149_2",
+    "prompt_text": "I finally finished my phlebotomy class. It was an hours drive one way_comma_ yuck. But thankfully it's over and I can try to get on at a local Hospital. They are hiring I heard.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "grateful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:74_conv:149",
+    "utterance_idx": "2",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:74_conv:149",
+        "utterance_idx": "2",
+        "context": "grateful",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:74_conv:149_3",
+    "prompt_text": "I finally finished my phlebotomy class. It was an hours drive one way_comma_ yuck. But thankfully it's over and I can try to get on at a local Hospital. They are hiring I heard.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "grateful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:74_conv:149",
+    "utterance_idx": "3",
+    "speaker_idx": "40",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:74_conv:149",
+        "utterance_idx": "3",
+        "context": "grateful",
+        "speaker_idx": "40",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:74_conv:149_4",
+    "prompt_text": "I finally finished my phlebotomy class. It was an hours drive one way_comma_ yuck. But thankfully it's over and I can try to get on at a local Hospital. They are hiring I heard.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "grateful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:74_conv:149",
+    "utterance_idx": "4",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:74_conv:149",
+        "utterance_idx": "4",
+        "context": "grateful",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:74_conv:149_5",
+    "prompt_text": "I finally finished my phlebotomy class. It was an hours drive one way_comma_ yuck. But thankfully it's over and I can try to get on at a local Hospital. They are hiring I heard.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "grateful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:74_conv:149",
+    "utterance_idx": "5",
+    "speaker_idx": "40",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:74_conv:149",
+        "utterance_idx": "5",
+        "context": "grateful",
+        "speaker_idx": "40",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:83_conv:167_1",
+    "prompt_text": "My daughter started a new school last year. She s adjusting great and had made a lot of friends.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:83_conv:167",
+    "utterance_idx": "1",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:83_conv:167",
+        "utterance_idx": "1",
+        "context": "proud",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_3|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:83_conv:167_2",
+    "prompt_text": "My daughter started a new school last year. She s adjusting great and had made a lot of friends.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:83_conv:167",
+    "utterance_idx": "2",
+    "speaker_idx": "46",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:83_conv:167",
+        "utterance_idx": "2",
+        "context": "proud",
+        "speaker_idx": "46",
+        "selfeval": "5|5|5_3|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:83_conv:167_3",
+    "prompt_text": "My daughter started a new school last year. She s adjusting great and had made a lot of friends.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:83_conv:167",
+    "utterance_idx": "3",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:83_conv:167",
+        "utterance_idx": "3",
+        "context": "proud",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_3|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:83_conv:167_4",
+    "prompt_text": "My daughter started a new school last year. She s adjusting great and had made a lot of friends.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:83_conv:167",
+    "utterance_idx": "4",
+    "speaker_idx": "46",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:83_conv:167",
+        "utterance_idx": "4",
+        "context": "proud",
+        "speaker_idx": "46",
+        "selfeval": "5|5|5_3|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:83_conv:167_5",
+    "prompt_text": "My daughter started a new school last year. She s adjusting great and had made a lot of friends.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:83_conv:167",
+    "utterance_idx": "5",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:83_conv:167",
+        "utterance_idx": "5",
+        "context": "proud",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_3|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:85_conv:171_1",
+    "prompt_text": "My neighbor's kid just lost his eyesight. The whole family is devastated.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "grief",
+    "emotion": "love",
+    "intensity": "severe",
+    "context_field": "caring",
+    "indicators": [
+      "L4.2",
+      "L4.6",
+      "L4.5",
+      "L4.1"
+    ],
+    "conv_id": "hit:85_conv:171",
+    "utterance_idx": "1",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:85_conv:171",
+        "utterance_idx": "1",
+        "context": "caring",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_4|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:85_conv:171_2",
+    "prompt_text": "My neighbor's kid just lost his eyesight. The whole family is devastated.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "grief",
+    "emotion": "love",
+    "intensity": "severe",
+    "context_field": "caring",
+    "indicators": [
+      "L4.2",
+      "L4.6",
+      "L4.5",
+      "L4.1"
+    ],
+    "conv_id": "hit:85_conv:171",
+    "utterance_idx": "2",
+    "speaker_idx": "46",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:85_conv:171",
+        "utterance_idx": "2",
+        "context": "caring",
+        "speaker_idx": "46",
+        "selfeval": "5|5|5_4|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:85_conv:171_3",
+    "prompt_text": "My neighbor's kid just lost his eyesight. The whole family is devastated.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "grief",
+    "emotion": "love",
+    "intensity": "severe",
+    "context_field": "caring",
+    "indicators": [
+      "L4.2",
+      "L4.6",
+      "L4.5",
+      "L4.1"
+    ],
+    "conv_id": "hit:85_conv:171",
+    "utterance_idx": "3",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:85_conv:171",
+        "utterance_idx": "3",
+        "context": "caring",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_4|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:85_conv:171_4",
+    "prompt_text": "My neighbor's kid just lost his eyesight. The whole family is devastated.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "grief",
+    "emotion": "love",
+    "intensity": "severe",
+    "context_field": "caring",
+    "indicators": [
+      "L4.2",
+      "L4.6",
+      "L4.5",
+      "L4.1"
+    ],
+    "conv_id": "hit:85_conv:171",
+    "utterance_idx": "4",
+    "speaker_idx": "46",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:85_conv:171",
+        "utterance_idx": "4",
+        "context": "caring",
+        "speaker_idx": "46",
+        "selfeval": "5|5|5_4|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:102_conv:205_1",
+    "prompt_text": "I got a huge bonus at work and was able to pay off my debt.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "grateful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:102_conv:205",
+    "utterance_idx": "1",
+    "speaker_idx": "46",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:102_conv:205",
+        "utterance_idx": "1",
+        "context": "grateful",
+        "speaker_idx": "46",
+        "selfeval": "3|4|3_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:102_conv:205_2",
+    "prompt_text": "I got a huge bonus at work and was able to pay off my debt.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "grateful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:102_conv:205",
+    "utterance_idx": "2",
+    "speaker_idx": "4",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:102_conv:205",
+        "utterance_idx": "2",
+        "context": "grateful",
+        "speaker_idx": "4",
+        "selfeval": "3|4|3_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:102_conv:205_3",
+    "prompt_text": "I got a huge bonus at work and was able to pay off my debt.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "grateful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:102_conv:205",
+    "utterance_idx": "3",
+    "speaker_idx": "46",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:102_conv:205",
+        "utterance_idx": "3",
+        "context": "grateful",
+        "speaker_idx": "46",
+        "selfeval": "3|4|3_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:102_conv:205_4",
+    "prompt_text": "I got a huge bonus at work and was able to pay off my debt.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "grateful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:102_conv:205",
+    "utterance_idx": "4",
+    "speaker_idx": "4",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:102_conv:205",
+        "utterance_idx": "4",
+        "context": "grateful",
+        "speaker_idx": "4",
+        "selfeval": "3|4|3_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:102_conv:205_5",
+    "prompt_text": "I got a huge bonus at work and was able to pay off my debt.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "grateful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:102_conv:205",
+    "utterance_idx": "5",
+    "speaker_idx": "46",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:102_conv:205",
+        "utterance_idx": "5",
+        "context": "grateful",
+        "speaker_idx": "46",
+        "selfeval": "3|4|3_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:106_conv:213_1",
+    "prompt_text": "I am proud I graduated college.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:106_conv:213",
+    "utterance_idx": "1",
+    "speaker_idx": "4",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:106_conv:213",
+        "utterance_idx": "1",
+        "context": "proud",
+        "speaker_idx": "4",
+        "selfeval": "5|5|5_3|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:106_conv:213_2",
+    "prompt_text": "I am proud I graduated college.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:106_conv:213",
+    "utterance_idx": "2",
+    "speaker_idx": "46",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:106_conv:213",
+        "utterance_idx": "2",
+        "context": "proud",
+        "speaker_idx": "46",
+        "selfeval": "5|5|5_3|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:106_conv:213_3",
+    "prompt_text": "I am proud I graduated college.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:106_conv:213",
+    "utterance_idx": "3",
+    "speaker_idx": "4",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:106_conv:213",
+        "utterance_idx": "3",
+        "context": "proud",
+        "speaker_idx": "4",
+        "selfeval": "5|5|5_3|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:106_conv:213_4",
+    "prompt_text": "I am proud I graduated college.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:106_conv:213",
+    "utterance_idx": "4",
+    "speaker_idx": "46",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:106_conv:213",
+        "utterance_idx": "4",
+        "context": "proud",
+        "speaker_idx": "46",
+        "selfeval": "5|5|5_3|3|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:107_conv:215_1",
+    "prompt_text": "I am confident I will pass the test.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:107_conv:215",
+    "utterance_idx": "1",
+    "speaker_idx": "4",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:107_conv:215",
+        "utterance_idx": "1",
+        "context": "confident",
+        "speaker_idx": "4",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:107_conv:215_2",
+    "prompt_text": "I am confident I will pass the test.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:107_conv:215",
+    "utterance_idx": "2",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:107_conv:215",
+        "utterance_idx": "2",
+        "context": "confident",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:107_conv:215_3",
+    "prompt_text": "I am confident I will pass the test.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:107_conv:215",
+    "utterance_idx": "3",
+    "speaker_idx": "4",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:107_conv:215",
+        "utterance_idx": "3",
+        "context": "confident",
+        "speaker_idx": "4",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:107_conv:215_4",
+    "prompt_text": "I am confident I will pass the test.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:107_conv:215",
+    "utterance_idx": "4",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:107_conv:215",
+        "utterance_idx": "4",
+        "context": "confident",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:109_conv:218_1",
+    "prompt_text": "I let my new neighbors borrow our lawnmower. It came back broken.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "trust",
+    "intensity": "moderate",
+    "context_field": "trusting",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:109_conv:218",
+    "utterance_idx": "1",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:109_conv:218",
+        "utterance_idx": "1",
+        "context": "trusting",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:109_conv:218_2",
+    "prompt_text": "I let my new neighbors borrow our lawnmower. It came back broken.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "trust",
+    "intensity": "moderate",
+    "context_field": "trusting",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:109_conv:218",
+    "utterance_idx": "2",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:109_conv:218",
+        "utterance_idx": "2",
+        "context": "trusting",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:109_conv:218_3",
+    "prompt_text": "I let my new neighbors borrow our lawnmower. It came back broken.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "trust",
+    "intensity": "moderate",
+    "context_field": "trusting",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:109_conv:218",
+    "utterance_idx": "3",
+    "speaker_idx": "1",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:109_conv:218",
+        "utterance_idx": "3",
+        "context": "trusting",
+        "speaker_idx": "1",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:109_conv:218_4",
+    "prompt_text": "I let my new neighbors borrow our lawnmower. It came back broken.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "trust",
+    "intensity": "moderate",
+    "context_field": "trusting",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:109_conv:218",
+    "utterance_idx": "4",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:109_conv:218",
+        "utterance_idx": "4",
+        "context": "trusting",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:120_conv:241_1",
+    "prompt_text": "I'm doing a drink a paint session this weekend. I can't wait. It's goin to be fun!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "anxiety",
+    "intensity": "moderate",
+    "context_field": "anxious",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:120_conv:241",
+    "utterance_idx": "1",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:120_conv:241",
+        "utterance_idx": "1",
+        "context": "anxious",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:120_conv:241_2",
+    "prompt_text": "I'm doing a drink a paint session this weekend. I can't wait. It's goin to be fun!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "anxiety",
+    "intensity": "moderate",
+    "context_field": "anxious",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:120_conv:241",
+    "utterance_idx": "2",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:120_conv:241",
+        "utterance_idx": "2",
+        "context": "anxious",
+        "speaker_idx": "11",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:120_conv:241_3",
+    "prompt_text": "I'm doing a drink a paint session this weekend. I can't wait. It's goin to be fun!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "anxiety",
+    "intensity": "moderate",
+    "context_field": "anxious",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:120_conv:241",
+    "utterance_idx": "3",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:120_conv:241",
+        "utterance_idx": "3",
+        "context": "anxious",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:120_conv:241_4",
+    "prompt_text": "I'm doing a drink a paint session this weekend. I can't wait. It's goin to be fun!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "anxiety",
+    "intensity": "moderate",
+    "context_field": "anxious",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:120_conv:241",
+    "utterance_idx": "4",
+    "speaker_idx": "11",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:120_conv:241",
+        "utterance_idx": "4",
+        "context": "anxious",
+        "speaker_idx": "11",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:120_conv:241_5",
+    "prompt_text": "I'm doing a drink a paint session this weekend. I can't wait. It's goin to be fun!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "health",
+    "emotion": "anxiety",
+    "intensity": "moderate",
+    "context_field": "anxious",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:120_conv:241",
+    "utterance_idx": "5",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:120_conv:241",
+        "utterance_idx": "5",
+        "context": "anxious",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:125_conv:250_1",
+    "prompt_text": "I was prepared for the History test.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anticipation",
+    "intensity": "moderate",
+    "context_field": "prepared",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:125_conv:250",
+    "utterance_idx": "1",
+    "speaker_idx": "4",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:125_conv:250",
+        "utterance_idx": "1",
+        "context": "prepared",
+        "speaker_idx": "4",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:125_conv:250_2",
+    "prompt_text": "I was prepared for the History test.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anticipation",
+    "intensity": "moderate",
+    "context_field": "prepared",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:125_conv:250",
+    "utterance_idx": "2",
+    "speaker_idx": "51",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:125_conv:250",
+        "utterance_idx": "2",
+        "context": "prepared",
+        "speaker_idx": "51",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:125_conv:250_3",
+    "prompt_text": "I was prepared for the History test.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anticipation",
+    "intensity": "moderate",
+    "context_field": "prepared",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:125_conv:250",
+    "utterance_idx": "3",
+    "speaker_idx": "4",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:125_conv:250",
+        "utterance_idx": "3",
+        "context": "prepared",
+        "speaker_idx": "4",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:125_conv:250_4",
+    "prompt_text": "I was prepared for the History test.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anticipation",
+    "intensity": "moderate",
+    "context_field": "prepared",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:125_conv:250",
+    "utterance_idx": "4",
+    "speaker_idx": "51",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:125_conv:250",
+        "utterance_idx": "4",
+        "context": "prepared",
+        "speaker_idx": "51",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:135_conv:270_1",
+    "prompt_text": "I was driving past the elementary school that I went to years ago and I decided to go through the parking lot for a few minutes. I saw all the old buildings and even the old playground and it really surprised me as to how little it has changed.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:135_conv:270",
+    "utterance_idx": "1",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:135_conv:270",
+        "utterance_idx": "1",
+        "context": "nostalgic",
+        "speaker_idx": "55",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:135_conv:270_2",
+    "prompt_text": "I was driving past the elementary school that I went to years ago and I decided to go through the parking lot for a few minutes. I saw all the old buildings and even the old playground and it really surprised me as to how little it has changed.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:135_conv:270",
+    "utterance_idx": "2",
+    "speaker_idx": "56",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:135_conv:270",
+        "utterance_idx": "2",
+        "context": "nostalgic",
+        "speaker_idx": "56",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:135_conv:270_3",
+    "prompt_text": "I was driving past the elementary school that I went to years ago and I decided to go through the parking lot for a few minutes. I saw all the old buildings and even the old playground and it really surprised me as to how little it has changed.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:135_conv:270",
+    "utterance_idx": "3",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:135_conv:270",
+        "utterance_idx": "3",
+        "context": "nostalgic",
+        "speaker_idx": "55",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:135_conv:270_4",
+    "prompt_text": "I was driving past the elementary school that I went to years ago and I decided to go through the parking lot for a few minutes. I saw all the old buildings and even the old playground and it really surprised me as to how little it has changed.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "nostalgic",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:135_conv:270",
+    "utterance_idx": "4",
+    "speaker_idx": "56",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:135_conv:270",
+        "utterance_idx": "4",
+        "context": "nostalgic",
+        "speaker_idx": "56",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:135_conv:271_1",
+    "prompt_text": "My sister in law basically lives off of my mother in law and her kids get everything. My mother in law rarely gives our kids anything because we have the money to do it ourselves - and I get a bit miffed at times.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "jealousy",
+    "intensity": "mild",
+    "context_field": "jealous",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:135_conv:271",
+    "utterance_idx": "1",
+    "speaker_idx": "56",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:135_conv:271",
+        "utterance_idx": "1",
+        "context": "jealous",
+        "speaker_idx": "56",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:135_conv:271_2",
+    "prompt_text": "My sister in law basically lives off of my mother in law and her kids get everything. My mother in law rarely gives our kids anything because we have the money to do it ourselves - and I get a bit miffed at times.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "jealousy",
+    "intensity": "mild",
+    "context_field": "jealous",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:135_conv:271",
+    "utterance_idx": "2",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:135_conv:271",
+        "utterance_idx": "2",
+        "context": "jealous",
+        "speaker_idx": "55",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:135_conv:271_3",
+    "prompt_text": "My sister in law basically lives off of my mother in law and her kids get everything. My mother in law rarely gives our kids anything because we have the money to do it ourselves - and I get a bit miffed at times.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "jealousy",
+    "intensity": "mild",
+    "context_field": "jealous",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:135_conv:271",
+    "utterance_idx": "3",
+    "speaker_idx": "56",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:135_conv:271",
+        "utterance_idx": "3",
+        "context": "jealous",
+        "speaker_idx": "56",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:135_conv:271_4",
+    "prompt_text": "My sister in law basically lives off of my mother in law and her kids get everything. My mother in law rarely gives our kids anything because we have the money to do it ourselves - and I get a bit miffed at times.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "jealousy",
+    "intensity": "mild",
+    "context_field": "jealous",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:135_conv:271",
+    "utterance_idx": "4",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:135_conv:271",
+        "utterance_idx": "4",
+        "context": "jealous",
+        "speaker_idx": "55",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:138_conv:277_1",
+    "prompt_text": "I passed all of my classes last semester. I had been struggling in college for a while.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:138_conv:277",
+    "utterance_idx": "1",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:138_conv:277",
+        "utterance_idx": "1",
+        "context": "joyful",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:138_conv:277_2",
+    "prompt_text": "I passed all of my classes last semester. I had been struggling in college for a while.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:138_conv:277",
+    "utterance_idx": "2",
+    "speaker_idx": "4",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:138_conv:277",
+        "utterance_idx": "2",
+        "context": "joyful",
+        "speaker_idx": "4",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:138_conv:277_3",
+    "prompt_text": "I passed all of my classes last semester. I had been struggling in college for a while.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:138_conv:277",
+    "utterance_idx": "3",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:138_conv:277",
+        "utterance_idx": "3",
+        "context": "joyful",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:138_conv:277_4",
+    "prompt_text": "I passed all of my classes last semester. I had been struggling in college for a while.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:138_conv:277",
+    "utterance_idx": "4",
+    "speaker_idx": "4",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:138_conv:277",
+        "utterance_idx": "4",
+        "context": "joyful",
+        "speaker_idx": "4",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:138_conv:277_5",
+    "prompt_text": "I passed all of my classes last semester. I had been struggling in college for a while.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:138_conv:277",
+    "utterance_idx": "5",
+    "speaker_idx": "27",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:138_conv:277",
+        "utterance_idx": "5",
+        "context": "joyful",
+        "speaker_idx": "27",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:150_conv:300_1",
+    "prompt_text": "My brother recently applied to an Ivy League school. We just found out he was accepted.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "surprise",
+    "intensity": "moderate",
+    "context_field": "impressed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:150_conv:300",
+    "utterance_idx": "1",
+    "speaker_idx": "35",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:150_conv:300",
+        "utterance_idx": "1",
+        "context": "impressed",
+        "speaker_idx": "35",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:150_conv:300_2",
+    "prompt_text": "My brother recently applied to an Ivy League school. We just found out he was accepted.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "surprise",
+    "intensity": "moderate",
+    "context_field": "impressed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:150_conv:300",
+    "utterance_idx": "2",
+    "speaker_idx": "62",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:150_conv:300",
+        "utterance_idx": "2",
+        "context": "impressed",
+        "speaker_idx": "62",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:150_conv:300_3",
+    "prompt_text": "My brother recently applied to an Ivy League school. We just found out he was accepted.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "surprise",
+    "intensity": "moderate",
+    "context_field": "impressed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:150_conv:300",
+    "utterance_idx": "3",
+    "speaker_idx": "35",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:150_conv:300",
+        "utterance_idx": "3",
+        "context": "impressed",
+        "speaker_idx": "35",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:150_conv:300_4",
+    "prompt_text": "My brother recently applied to an Ivy League school. We just found out he was accepted.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "surprise",
+    "intensity": "moderate",
+    "context_field": "impressed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:150_conv:300",
+    "utterance_idx": "4",
+    "speaker_idx": "62",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:150_conv:300",
+        "utterance_idx": "4",
+        "context": "impressed",
+        "speaker_idx": "62",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:150_conv:301_1",
+    "prompt_text": "I am trying to sell my house for 89k dollars_comma_ I have been in a bad financial situation_comma_ my nephew knows it_comma_ and now he is trying to buy my house just for 75k_comma_ trying to take advance of my situation",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:150_conv:301",
+    "utterance_idx": "1",
+    "speaker_idx": "62",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:150_conv:301",
+        "utterance_idx": "1",
+        "context": "sad",
+        "speaker_idx": "62",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:150_conv:301_2",
+    "prompt_text": "I am trying to sell my house for 89k dollars_comma_ I have been in a bad financial situation_comma_ my nephew knows it_comma_ and now he is trying to buy my house just for 75k_comma_ trying to take advance of my situation",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:150_conv:301",
+    "utterance_idx": "2",
+    "speaker_idx": "35",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:150_conv:301",
+        "utterance_idx": "2",
+        "context": "sad",
+        "speaker_idx": "35",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:150_conv:301_3",
+    "prompt_text": "I am trying to sell my house for 89k dollars_comma_ I have been in a bad financial situation_comma_ my nephew knows it_comma_ and now he is trying to buy my house just for 75k_comma_ trying to take advance of my situation",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:150_conv:301",
+    "utterance_idx": "3",
+    "speaker_idx": "62",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:150_conv:301",
+        "utterance_idx": "3",
+        "context": "sad",
+        "speaker_idx": "62",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:150_conv:301_4",
+    "prompt_text": "I am trying to sell my house for 89k dollars_comma_ I have been in a bad financial situation_comma_ my nephew knows it_comma_ and now he is trying to buy my house just for 75k_comma_ trying to take advance of my situation",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:150_conv:301",
+    "utterance_idx": "4",
+    "speaker_idx": "35",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:150_conv:301",
+        "utterance_idx": "4",
+        "context": "sad",
+        "speaker_idx": "35",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:150_conv:301_5",
+    "prompt_text": "I am trying to sell my house for 89k dollars_comma_ I have been in a bad financial situation_comma_ my nephew knows it_comma_ and now he is trying to buy my house just for 75k_comma_ trying to take advance of my situation",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:150_conv:301",
+    "utterance_idx": "5",
+    "speaker_idx": "62",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:150_conv:301",
+        "utterance_idx": "5",
+        "context": "sad",
+        "speaker_idx": "62",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:150_conv:301_6",
+    "prompt_text": "I am trying to sell my house for 89k dollars_comma_ I have been in a bad financial situation_comma_ my nephew knows it_comma_ and now he is trying to buy my house just for 75k_comma_ trying to take advance of my situation",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:150_conv:301",
+    "utterance_idx": "6",
+    "speaker_idx": "35",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:150_conv:301",
+        "utterance_idx": "6",
+        "context": "sad",
+        "speaker_idx": "35",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:150_conv:301_7",
+    "prompt_text": "I am trying to sell my house for 89k dollars_comma_ I have been in a bad financial situation_comma_ my nephew knows it_comma_ and now he is trying to buy my house just for 75k_comma_ trying to take advance of my situation",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:150_conv:301",
+    "utterance_idx": "7",
+    "speaker_idx": "62",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:150_conv:301",
+        "utterance_idx": "7",
+        "context": "sad",
+        "speaker_idx": "62",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:150_conv:301_8",
+    "prompt_text": "I am trying to sell my house for 89k dollars_comma_ I have been in a bad financial situation_comma_ my nephew knows it_comma_ and now he is trying to buy my house just for 75k_comma_ trying to take advance of my situation",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "sad",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:150_conv:301",
+    "utterance_idx": "8",
+    "speaker_idx": "35",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:150_conv:301",
+        "utterance_idx": "8",
+        "context": "sad",
+        "speaker_idx": "35",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:151_conv:302_1",
+    "prompt_text": "When my brother graduated high school_comma_ I was very proud of him_comma_ it was a big accomplishment",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:151_conv:302",
+    "utterance_idx": "1",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:151_conv:302",
+        "utterance_idx": "1",
+        "context": "proud",
+        "speaker_idx": "10",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:151_conv:302_2",
+    "prompt_text": "When my brother graduated high school_comma_ I was very proud of him_comma_ it was a big accomplishment",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:151_conv:302",
+    "utterance_idx": "2",
+    "speaker_idx": "63",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:151_conv:302",
+        "utterance_idx": "2",
+        "context": "proud",
+        "speaker_idx": "63",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:151_conv:302_3",
+    "prompt_text": "When my brother graduated high school_comma_ I was very proud of him_comma_ it was a big accomplishment",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:151_conv:302",
+    "utterance_idx": "3",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:151_conv:302",
+        "utterance_idx": "3",
+        "context": "proud",
+        "speaker_idx": "10",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:151_conv:302_4",
+    "prompt_text": "When my brother graduated high school_comma_ I was very proud of him_comma_ it was a big accomplishment",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "proud",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:151_conv:302",
+    "utterance_idx": "4",
+    "speaker_idx": "63",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:151_conv:302",
+        "utterance_idx": "4",
+        "context": "proud",
+        "speaker_idx": "63",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:151_conv:303_1",
+    "prompt_text": "When I got the results back to all my finals for last semester of college. I thought I might fail but I passed all my classes.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:151_conv:303",
+    "utterance_idx": "1",
+    "speaker_idx": "63",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:151_conv:303",
+        "utterance_idx": "1",
+        "context": "joyful",
+        "speaker_idx": "63",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:151_conv:303_2",
+    "prompt_text": "When I got the results back to all my finals for last semester of college. I thought I might fail but I passed all my classes.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:151_conv:303",
+    "utterance_idx": "2",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:151_conv:303",
+        "utterance_idx": "2",
+        "context": "joyful",
+        "speaker_idx": "10",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:151_conv:303_3",
+    "prompt_text": "When I got the results back to all my finals for last semester of college. I thought I might fail but I passed all my classes.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:151_conv:303",
+    "utterance_idx": "3",
+    "speaker_idx": "63",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:151_conv:303",
+        "utterance_idx": "3",
+        "context": "joyful",
+        "speaker_idx": "63",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:151_conv:303_4",
+    "prompt_text": "When I got the results back to all my finals for last semester of college. I thought I might fail but I passed all my classes.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "joyful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:151_conv:303",
+    "utterance_idx": "4",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:151_conv:303",
+        "utterance_idx": "4",
+        "context": "joyful",
+        "speaker_idx": "10",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:158_conv:316_1",
+    "prompt_text": "When I was in preschool_comma_ my pants fell down in class. I was laughed at a lot",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "embarrassed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:158_conv:316",
+    "utterance_idx": "1",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:158_conv:316",
+        "utterance_idx": "1",
+        "context": "embarrassed",
+        "speaker_idx": "10",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:158_conv:316_2",
+    "prompt_text": "When I was in preschool_comma_ my pants fell down in class. I was laughed at a lot",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "embarrassed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:158_conv:316",
+    "utterance_idx": "2",
+    "speaker_idx": "51",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:158_conv:316",
+        "utterance_idx": "2",
+        "context": "embarrassed",
+        "speaker_idx": "51",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:158_conv:316_3",
+    "prompt_text": "When I was in preschool_comma_ my pants fell down in class. I was laughed at a lot",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "embarrassed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:158_conv:316",
+    "utterance_idx": "3",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:158_conv:316",
+        "utterance_idx": "3",
+        "context": "embarrassed",
+        "speaker_idx": "10",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:158_conv:316_4",
+    "prompt_text": "When I was in preschool_comma_ my pants fell down in class. I was laughed at a lot",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "embarrassed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:158_conv:316",
+    "utterance_idx": "4",
+    "speaker_idx": "51",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:158_conv:316",
+        "utterance_idx": "4",
+        "context": "embarrassed",
+        "speaker_idx": "51",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:163_conv:327_1",
+    "prompt_text": "I broke a vase at my mom's house and hid it. I still haven't told her about it.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "guilty",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:163_conv:327",
+    "utterance_idx": "1",
+    "speaker_idx": "35",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:163_conv:327",
+        "utterance_idx": "1",
+        "context": "guilty",
+        "speaker_idx": "35",
+        "selfeval": "5|5|5_4|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:163_conv:327_2",
+    "prompt_text": "I broke a vase at my mom's house and hid it. I still haven't told her about it.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "guilty",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:163_conv:327",
+    "utterance_idx": "2",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:163_conv:327",
+        "utterance_idx": "2",
+        "context": "guilty",
+        "speaker_idx": "55",
+        "selfeval": "5|5|5_4|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:163_conv:327_3",
+    "prompt_text": "I broke a vase at my mom's house and hid it. I still haven't told her about it.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "guilty",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:163_conv:327",
+    "utterance_idx": "3",
+    "speaker_idx": "35",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:163_conv:327",
+        "utterance_idx": "3",
+        "context": "guilty",
+        "speaker_idx": "35",
+        "selfeval": "5|5|5_4|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:163_conv:327_4",
+    "prompt_text": "I broke a vase at my mom's house and hid it. I still haven't told her about it.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "shame",
+    "intensity": "moderate",
+    "context_field": "guilty",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:163_conv:327",
+    "utterance_idx": "4",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:163_conv:327",
+        "utterance_idx": "4",
+        "context": "guilty",
+        "speaker_idx": "55",
+        "selfeval": "5|5|5_4|4|4",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:165_conv:331_1",
+    "prompt_text": "My friend got a huge scholarship when he barely passed the PSAT. I was quite jealous that I was unable to do the same thing.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "jealousy",
+    "intensity": "moderate",
+    "context_field": "jealous",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:165_conv:331",
+    "utterance_idx": "1",
+    "speaker_idx": "63",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:165_conv:331",
+        "utterance_idx": "1",
+        "context": "jealous",
+        "speaker_idx": "63",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:165_conv:331_2",
+    "prompt_text": "My friend got a huge scholarship when he barely passed the PSAT. I was quite jealous that I was unable to do the same thing.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "jealousy",
+    "intensity": "moderate",
+    "context_field": "jealous",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:165_conv:331",
+    "utterance_idx": "2",
+    "speaker_idx": "53",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:165_conv:331",
+        "utterance_idx": "2",
+        "context": "jealous",
+        "speaker_idx": "53",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:165_conv:331_3",
+    "prompt_text": "My friend got a huge scholarship when he barely passed the PSAT. I was quite jealous that I was unable to do the same thing.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "jealousy",
+    "intensity": "moderate",
+    "context_field": "jealous",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:165_conv:331",
+    "utterance_idx": "3",
+    "speaker_idx": "63",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:165_conv:331",
+        "utterance_idx": "3",
+        "context": "jealous",
+        "speaker_idx": "63",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:165_conv:331_4",
+    "prompt_text": "My friend got a huge scholarship when he barely passed the PSAT. I was quite jealous that I was unable to do the same thing.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "jealousy",
+    "intensity": "moderate",
+    "context_field": "jealous",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:165_conv:331",
+    "utterance_idx": "4",
+    "speaker_idx": "53",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:165_conv:331",
+        "utterance_idx": "4",
+        "context": "jealous",
+        "speaker_idx": "53",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:165_conv:331_5",
+    "prompt_text": "My friend got a huge scholarship when he barely passed the PSAT. I was quite jealous that I was unable to do the same thing.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "jealousy",
+    "intensity": "moderate",
+    "context_field": "jealous",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:165_conv:331",
+    "utterance_idx": "5",
+    "speaker_idx": "63",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:165_conv:331",
+        "utterance_idx": "5",
+        "context": "jealous",
+        "speaker_idx": "63",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:165_conv:331_6",
+    "prompt_text": "My friend got a huge scholarship when he barely passed the PSAT. I was quite jealous that I was unable to do the same thing.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "jealousy",
+    "intensity": "moderate",
+    "context_field": "jealous",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:165_conv:331",
+    "utterance_idx": "6",
+    "speaker_idx": "53",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:165_conv:331",
+        "utterance_idx": "6",
+        "context": "jealous",
+        "speaker_idx": "53",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:165_conv:331_7",
+    "prompt_text": "My friend got a huge scholarship when he barely passed the PSAT. I was quite jealous that I was unable to do the same thing.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "jealousy",
+    "intensity": "moderate",
+    "context_field": "jealous",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:165_conv:331",
+    "utterance_idx": "7",
+    "speaker_idx": "63",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:165_conv:331",
+        "utterance_idx": "7",
+        "context": "jealous",
+        "speaker_idx": "63",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:165_conv:331_8",
+    "prompt_text": "My friend got a huge scholarship when he barely passed the PSAT. I was quite jealous that I was unable to do the same thing.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "jealousy",
+    "intensity": "moderate",
+    "context_field": "jealous",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:165_conv:331",
+    "utterance_idx": "8",
+    "speaker_idx": "53",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:165_conv:331",
+        "utterance_idx": "8",
+        "context": "jealous",
+        "speaker_idx": "53",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:166_conv:333_1",
+    "prompt_text": "Once I realized that I needed at least a 31 on my ACT in order to get a nice little scholarship for college. I studied my heart out to improve my 29 and I felt super confident that I'd get the 31. Instead I actually got a 33!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anticipation",
+    "intensity": "moderate",
+    "context_field": "prepared",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:166_conv:333",
+    "utterance_idx": "1",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:166_conv:333",
+        "utterance_idx": "1",
+        "context": "prepared",
+        "speaker_idx": "55",
+        "selfeval": "5|5|4_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:166_conv:333_2",
+    "prompt_text": "Once I realized that I needed at least a 31 on my ACT in order to get a nice little scholarship for college. I studied my heart out to improve my 29 and I felt super confident that I'd get the 31. Instead I actually got a 33!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anticipation",
+    "intensity": "moderate",
+    "context_field": "prepared",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:166_conv:333",
+    "utterance_idx": "2",
+    "speaker_idx": "51",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:166_conv:333",
+        "utterance_idx": "2",
+        "context": "prepared",
+        "speaker_idx": "51",
+        "selfeval": "5|5|4_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:166_conv:333_3",
+    "prompt_text": "Once I realized that I needed at least a 31 on my ACT in order to get a nice little scholarship for college. I studied my heart out to improve my 29 and I felt super confident that I'd get the 31. Instead I actually got a 33!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anticipation",
+    "intensity": "moderate",
+    "context_field": "prepared",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:166_conv:333",
+    "utterance_idx": "3",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:166_conv:333",
+        "utterance_idx": "3",
+        "context": "prepared",
+        "speaker_idx": "55",
+        "selfeval": "5|5|4_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:166_conv:333_4",
+    "prompt_text": "Once I realized that I needed at least a 31 on my ACT in order to get a nice little scholarship for college. I studied my heart out to improve my 29 and I felt super confident that I'd get the 31. Instead I actually got a 33!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anticipation",
+    "intensity": "moderate",
+    "context_field": "prepared",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:166_conv:333",
+    "utterance_idx": "4",
+    "speaker_idx": "51",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:166_conv:333",
+        "utterance_idx": "4",
+        "context": "prepared",
+        "speaker_idx": "51",
+        "selfeval": "5|5|4_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:167_conv:334_1",
+    "prompt_text": "My friend took some of my money without asking. When they confessed I wasnt mad_comma_ just disappointed.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "disappointed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:167_conv:334",
+    "utterance_idx": "1",
+    "speaker_idx": "63",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:167_conv:334",
+        "utterance_idx": "1",
+        "context": "disappointed",
+        "speaker_idx": "63",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:167_conv:334_2",
+    "prompt_text": "My friend took some of my money without asking. When they confessed I wasnt mad_comma_ just disappointed.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "disappointed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:167_conv:334",
+    "utterance_idx": "2",
+    "speaker_idx": "61",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:167_conv:334",
+        "utterance_idx": "2",
+        "context": "disappointed",
+        "speaker_idx": "61",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:167_conv:334_3",
+    "prompt_text": "My friend took some of my money without asking. When they confessed I wasnt mad_comma_ just disappointed.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "disappointed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:167_conv:334",
+    "utterance_idx": "3",
+    "speaker_idx": "63",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:167_conv:334",
+        "utterance_idx": "3",
+        "context": "disappointed",
+        "speaker_idx": "63",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:167_conv:334_4",
+    "prompt_text": "My friend took some of my money without asking. When they confessed I wasnt mad_comma_ just disappointed.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "sadness",
+    "intensity": "moderate",
+    "context_field": "disappointed",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:167_conv:334",
+    "utterance_idx": "4",
+    "speaker_idx": "61",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:167_conv:334",
+        "utterance_idx": "4",
+        "context": "disappointed",
+        "speaker_idx": "61",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:169_conv:339_1",
+    "prompt_text": "As a child i was sitting in my parents car and a storm started. I was just playing my gameboy and the car started to shake. A log went right through the car window after a couple of minutes of the storm starting.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "fear",
+    "intensity": "moderate",
+    "context_field": "terrified",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:169_conv:339",
+    "utterance_idx": "1",
+    "speaker_idx": "68",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:169_conv:339",
+        "utterance_idx": "1",
+        "context": "terrified",
+        "speaker_idx": "68",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:169_conv:339_2",
+    "prompt_text": "As a child i was sitting in my parents car and a storm started. I was just playing my gameboy and the car started to shake. A log went right through the car window after a couple of minutes of the storm starting.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "fear",
+    "intensity": "moderate",
+    "context_field": "terrified",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:169_conv:339",
+    "utterance_idx": "2",
+    "speaker_idx": "60",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:169_conv:339",
+        "utterance_idx": "2",
+        "context": "terrified",
+        "speaker_idx": "60",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:169_conv:339_3",
+    "prompt_text": "As a child i was sitting in my parents car and a storm started. I was just playing my gameboy and the car started to shake. A log went right through the car window after a couple of minutes of the storm starting.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "fear",
+    "intensity": "moderate",
+    "context_field": "terrified",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:169_conv:339",
+    "utterance_idx": "3",
+    "speaker_idx": "68",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:169_conv:339",
+        "utterance_idx": "3",
+        "context": "terrified",
+        "speaker_idx": "68",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:169_conv:339_4",
+    "prompt_text": "As a child i was sitting in my parents car and a storm started. I was just playing my gameboy and the car started to shake. A log went right through the car window after a couple of minutes of the storm starting.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "fear",
+    "intensity": "moderate",
+    "context_field": "terrified",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:169_conv:339",
+    "utterance_idx": "4",
+    "speaker_idx": "60",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:169_conv:339",
+        "utterance_idx": "4",
+        "context": "terrified",
+        "speaker_idx": "60",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:169_conv:339_5",
+    "prompt_text": "As a child i was sitting in my parents car and a storm started. I was just playing my gameboy and the car started to shake. A log went right through the car window after a couple of minutes of the storm starting.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "fear",
+    "intensity": "moderate",
+    "context_field": "terrified",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:169_conv:339",
+    "utterance_idx": "5",
+    "speaker_idx": "68",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:169_conv:339",
+        "utterance_idx": "5",
+        "context": "terrified",
+        "speaker_idx": "68",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:169_conv:339_6",
+    "prompt_text": "As a child i was sitting in my parents car and a storm started. I was just playing my gameboy and the car started to shake. A log went right through the car window after a couple of minutes of the storm starting.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "fear",
+    "intensity": "moderate",
+    "context_field": "terrified",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:169_conv:339",
+    "utterance_idx": "6",
+    "speaker_idx": "60",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:169_conv:339",
+        "utterance_idx": "6",
+        "context": "terrified",
+        "speaker_idx": "60",
+        "selfeval": "5|5|5_5|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:170_conv:340_1",
+    "prompt_text": "Back in freshman year of college_comma_ I really wanted to room with my brother even though he was not a freshman but a sophomore. I was really rooting for that to happen but instead I got roomed with some random guy.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "hope",
+    "intensity": "moderate",
+    "context_field": "hopeful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:170_conv:340",
+    "utterance_idx": "1",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:170_conv:340",
+        "utterance_idx": "1",
+        "context": "hopeful",
+        "speaker_idx": "55",
+        "selfeval": "5|5|5_4|4|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:170_conv:340_2",
+    "prompt_text": "Back in freshman year of college_comma_ I really wanted to room with my brother even though he was not a freshman but a sophomore. I was really rooting for that to happen but instead I got roomed with some random guy.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "hope",
+    "intensity": "moderate",
+    "context_field": "hopeful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:170_conv:340",
+    "utterance_idx": "2",
+    "speaker_idx": "69",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:170_conv:340",
+        "utterance_idx": "2",
+        "context": "hopeful",
+        "speaker_idx": "69",
+        "selfeval": "5|5|5_4|4|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:170_conv:340_3",
+    "prompt_text": "Back in freshman year of college_comma_ I really wanted to room with my brother even though he was not a freshman but a sophomore. I was really rooting for that to happen but instead I got roomed with some random guy.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "hope",
+    "intensity": "moderate",
+    "context_field": "hopeful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:170_conv:340",
+    "utterance_idx": "3",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:170_conv:340",
+        "utterance_idx": "3",
+        "context": "hopeful",
+        "speaker_idx": "55",
+        "selfeval": "5|5|5_4|4|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:170_conv:340_4",
+    "prompt_text": "Back in freshman year of college_comma_ I really wanted to room with my brother even though he was not a freshman but a sophomore. I was really rooting for that to happen but instead I got roomed with some random guy.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "hope",
+    "intensity": "moderate",
+    "context_field": "hopeful",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.4",
+      "L4.1"
+    ],
+    "conv_id": "hit:170_conv:340",
+    "utterance_idx": "4",
+    "speaker_idx": "69",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:170_conv:340",
+        "utterance_idx": "4",
+        "context": "hopeful",
+        "speaker_idx": "69",
+        "selfeval": "5|5|5_4|4|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:172_conv:344_1",
+    "prompt_text": "When i was young i was pretty hyper. But when we had a connect four tournament at my school i back seated someones match. I didn't point anything out really but they gave them a lose and it got me really mad i threw a chair in class.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "context_field": "angry",
+    "indicators": [
+      "L4.2",
+      "L4.1",
+      "L4.7",
+      "L4.3",
+      "L4.4"
+    ],
+    "conv_id": "hit:172_conv:344",
+    "utterance_idx": "1",
+    "speaker_idx": "68",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:172_conv:344",
+        "utterance_idx": "1",
+        "context": "angry",
+        "speaker_idx": "68",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:172_conv:344_2",
+    "prompt_text": "When i was young i was pretty hyper. But when we had a connect four tournament at my school i back seated someones match. I didn't point anything out really but they gave them a lose and it got me really mad i threw a chair in class.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "context_field": "angry",
+    "indicators": [
+      "L4.2",
+      "L4.1",
+      "L4.7",
+      "L4.3",
+      "L4.4"
+    ],
+    "conv_id": "hit:172_conv:344",
+    "utterance_idx": "2",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:172_conv:344",
+        "utterance_idx": "2",
+        "context": "angry",
+        "speaker_idx": "55",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:172_conv:344_3",
+    "prompt_text": "When i was young i was pretty hyper. But when we had a connect four tournament at my school i back seated someones match. I didn't point anything out really but they gave them a lose and it got me really mad i threw a chair in class.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "context_field": "angry",
+    "indicators": [
+      "L4.2",
+      "L4.1",
+      "L4.7",
+      "L4.3",
+      "L4.4"
+    ],
+    "conv_id": "hit:172_conv:344",
+    "utterance_idx": "3",
+    "speaker_idx": "68",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:172_conv:344",
+        "utterance_idx": "3",
+        "context": "angry",
+        "speaker_idx": "68",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:172_conv:344_4",
+    "prompt_text": "When i was young i was pretty hyper. But when we had a connect four tournament at my school i back seated someones match. I didn't point anything out really but they gave them a lose and it got me really mad i threw a chair in class.",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "anger",
+    "intensity": "moderate",
+    "context_field": "angry",
+    "indicators": [
+      "L4.2",
+      "L4.1",
+      "L4.7",
+      "L4.3",
+      "L4.4"
+    ],
+    "conv_id": "hit:172_conv:344",
+    "utterance_idx": "4",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:172_conv:344",
+        "utterance_idx": "4",
+        "context": "angry",
+        "speaker_idx": "55",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:174_conv:348_1",
+    "prompt_text": "I felt confident when I won the honor society election in high school. I beat someone way more popular",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:174_conv:348",
+    "utterance_idx": "1",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:174_conv:348",
+        "utterance_idx": "1",
+        "context": "confident",
+        "speaker_idx": "10",
+        "selfeval": "5|5|5_3|5|5",
+        "tags": "<POLITICAL>"
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:174_conv:348_2",
+    "prompt_text": "I felt confident when I won the honor society election in high school. I beat someone way more popular",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:174_conv:348",
+    "utterance_idx": "2",
+    "speaker_idx": "53",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:174_conv:348",
+        "utterance_idx": "2",
+        "context": "confident",
+        "speaker_idx": "53",
+        "selfeval": "5|5|5_3|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:174_conv:348_3",
+    "prompt_text": "I felt confident when I won the honor society election in high school. I beat someone way more popular",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:174_conv:348",
+    "utterance_idx": "3",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:174_conv:348",
+        "utterance_idx": "3",
+        "context": "confident",
+        "speaker_idx": "10",
+        "selfeval": "5|5|5_3|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:174_conv:348_4",
+    "prompt_text": "I felt confident when I won the honor society election in high school. I beat someone way more popular",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "academic",
+    "emotion": "joy",
+    "intensity": "moderate",
+    "context_field": "confident",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:174_conv:348",
+    "utterance_idx": "4",
+    "speaker_idx": "53",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:174_conv:348",
+        "utterance_idx": "4",
+        "context": "confident",
+        "speaker_idx": "53",
+        "selfeval": "5|5|5_3|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:176_conv:352_1",
+    "prompt_text": "I was shocked when I got a new car. My parents surprised me so well!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "surprise",
+    "intensity": "moderate",
+    "context_field": "surprised",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:176_conv:352",
+    "utterance_idx": "1",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:176_conv:352",
+        "utterance_idx": "1",
+        "context": "surprised",
+        "speaker_idx": "10",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:176_conv:352_2",
+    "prompt_text": "I was shocked when I got a new car. My parents surprised me so well!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "surprise",
+    "intensity": "moderate",
+    "context_field": "surprised",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:176_conv:352",
+    "utterance_idx": "2",
+    "speaker_idx": "55",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:176_conv:352",
+        "utterance_idx": "2",
+        "context": "surprised",
+        "speaker_idx": "55",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  },
+  {
+    "prompt_id": "EMP_hit:176_conv:352_3",
+    "prompt_text": "I was shocked when I got a new car. My parents surprised me so well!",
+    "source": "empathetic_dialogues",
+    "source_file": "train.csv",
+    "scenario_type": "financial",
+    "emotion": "surprise",
+    "intensity": "moderate",
+    "context_field": "surprised",
+    "indicators": [
+      "L4.2",
+      "L4.7",
+      "L4.1"
+    ],
+    "conv_id": "hit:176_conv:352",
+    "utterance_idx": "3",
+    "speaker_idx": "10",
+    "metadata": {
+      "original_row": {
+        "conv_id": "hit:176_conv:352",
+        "utterance_idx": "3",
+        "context": "surprised",
+        "speaker_idx": "10",
+        "selfeval": "5|5|5_4|5|5",
+        "tags": ""
+      }
+    }
+  }
+]

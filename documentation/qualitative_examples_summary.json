@@ -1,0 +1,51 @@
+{
+  "L4.1": {
+    "mistral_high_count": 3,
+    "mistral_low_count": 0,
+    "llama_high_count": 10,
+    "llama_low_count": 2,
+    "comparison_count": 100
+  },
+  "L4.2": {
+    "mistral_high_count": 10,
+    "mistral_low_count": 0,
+    "llama_high_count": 10,
+    "llama_low_count": 2,
+    "comparison_count": 100
+  },
+  "L4.3": {
+    "mistral_high_count": 10,
+    "mistral_low_count": 0,
+    "llama_high_count": 10,
+    "llama_low_count": 0,
+    "comparison_count": 100
+  },
+  "L4.4": {
+    "mistral_high_count": 10,
+    "mistral_low_count": 0,
+    "llama_high_count": 10,
+    "llama_low_count": 0,
+    "comparison_count": 100
+  },
+  "L4.5": {
+    "mistral_high_count": 10,
+    "mistral_low_count": 1,
+    "llama_high_count": 10,
+    "llama_low_count": 0,
+    "comparison_count": 100
+  },
+  "L4.6": {
+    "mistral_high_count": 10,
+    "mistral_low_count": 0,
+    "llama_high_count": 10,
+    "llama_low_count": 0,
+    "comparison_count": 100
+  },
+  "L4.7": {
+    "mistral_high_count": 10,
+    "mistral_low_count": 0,
+    "llama_high_count": 10,
+    "llama_low_count": 2,
+    "comparison_count": 100
+  }
+}
