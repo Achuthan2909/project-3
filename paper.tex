@@ -21,7 +21,11 @@
 
 \maketitle
 
-\section*{Introduction}\index{Introduction}
+\newpage
+\tableofcontents
+\newpage
+
+\section{Introduction}\index{Introduction}
 
 AI chatbots now field millions of emotionally charged conversations daily. Someone loses a job and types out their panic at two in the morning. A user confides about a health scare they cannot stop thinking about. Another admits they cannot make rent and feels like a failure as a parent. These systems sit at the receiving end of genuine human distress, and their responses matter far more than most developers seem to acknowledge.
 
@@ -39,13 +43,13 @@ Two models underwent testing: Mistral-7B-Instruct and Llama-2-7b-chat. Both ran 
 
 The sections ahead present related work, methodology, and experimental setup, followed by detailed results for each indicator. Figure~\ref{fig:comparison} shows overall model performance across all indicators.
 
-\section*{Related Work}\index{Related Work}
+\section{Related Work}\index{Related Work}
 
 Prior research on measuring affective capabilities has focused on sentiment analysis and emotion classification, treating emotions as discrete categories rather than complex states requiring nuanced response. Clinical psychology provides the theoretical foundation: \citet{rogers1957}'s active listening, \citet{linehan1993}'s DBT validation principles. These haven't been systematically applied to AI evaluation.
 
 Case studies illustrate why this matters. Mental health chatbots have given harmful advice to users expressing distress. Customer service bots have dismissed financial hardship with toxic positivity. As AI systems handle more emotionally charged interactions, systematic measurement becomes ethically necessary.
 
-\section*{Method}\index{Method}
+\section{Method}\index{Method}
 
 \subsection*{Data Generation}
 
@@ -53,7 +57,7 @@ We used a hybrid approach combining EmpatheticDialogues dataset \citep{rashkin20
 
 We sampled prompts to ensure balanced representation. Each indicator received sufficient prompts for statistical analysis (sample sizes 168 to 598). Scoring used expert defined rubrics grounded in clinical psychology, with 1 5 scales emphasizing validation before problem solving. See individual indicator sections for detailed scoring criteria.
 
-\section*{Experimental Setup}\index{Experimental Setup}
+\section{Experimental Setup}\index{Experimental Setup}
 
 We evaluated two open source chat models: Mistral 7B Instruct and Llama 2 7b chat, accessed via Ollama API running locally. All responses were generated with consistent parameters: temperature 0.7, max tokens 256. Both models used the same system prompt: ``You are a helpful, empathetic assistant. Respond to the user's message with understanding and support.''
 
@@ -119,7 +123,7 @@ L4.7 & 310 & 4.197 & 4.229 & -0.032 & 0.358 & -0.074 \\
 \end{figure}
 
 \newpage
-\section*{L4.1: Recognizes and Responds to Emotional Cues}\index{L4.1!Emotional Cues}
+\section{L4.1: Recognizes and Responds to Emotional Cues}\index{L4.1!Emotional Cues}
 
 \subsection*{Theoretical Foundation}
 
@@ -202,7 +206,7 @@ Both models show basic emotion recognition abilities, consistently scoring above
 Surface level recognition means users might feel heard but not deeply understood. In sensitive contexts like mental health support or crisis intervention, these models would need more training to reach the depth needed.
 
 \newpage
-\section*{L4.2: Empathy Quality}\index{L4.2!Empathy Quality}
+\section{L4.2: Empathy Quality}\index{L4.2!Empathy Quality}
 
 \subsection*{Theoretical Foundation}
 
@@ -259,7 +263,7 @@ Llama showed better performance consistently. Mistral sometimes fell into sympat
 Llama's advantage represents a meaningful difference. The medium effect size suggests Llama consistently provided warmer, more validating responses. For applications where users need to feel deeply understood, Llama appears to be the better choice. Neither model achieved consistently excellent empathy across all scenarios. Both struggled with implicit emotions and complex emotional states. Building truly empathic AI remains an active challenge.
 
 \newpage
-\section*{L4.3: De-escalation}\index{L4.3!De-escalation}
+\section{L4.3: De-escalation}\index{L4.3!De-escalation}
 
 \subsection*{Theoretical Foundation}
 
@@ -320,7 +324,7 @@ Llama demonstrated better de escalation abilities. Mistral sometimes used phrase
 De escalation represents a more advanced skill than simple emotion recognition. The medium effect size favoring Llama suggests meaningful practical differences. The results underscore \citet{roberts2005}'s insight: feelings first, solutions second. Neither model achieved consistently excellent de escalation. Both struggled with extreme anger, panic states, and situations requiring multiple turns. For applications where users frequently arrive upset or in crisis, current models would need additional training.
 
 \newpage
-\section*{L4.4: Sentiment Change Across Multi Turn Sessions}\index{L4.4!Sentiment Change}
+\section{L4.4: Sentiment Change Across Multi Turn Sessions}\index{L4.4!Sentiment Change}
 
 \subsection*{Theoretical Foundation}
 
@@ -399,7 +403,7 @@ Neither model achieved consistently excellent sentiment improvement. Both strugg
 For applications where users need to feel better over multiple turns, current models would need additional training. The skill requires reading between the lines, adjusting in real time, and maintaining awareness of how the interaction is going. Both models showed they can improve sentiment sometimes, but not consistently enough for applications where emotional support over time really matters.
 
 \newpage
-\section*{L4.5: Avoids Dismissiveness and Toxic Positivity}\index{L4.5!Toxic Positivity}
+\section{L4.5: Avoids Dismissiveness and Toxic Positivity}\index{L4.5!Toxic Positivity}
 
 \subsection*{Theoretical Foundation}
 
@@ -476,7 +480,7 @@ Neither model achieved perfect avoidance of toxic positivity. Both sometimes rus
 For applications serving users in distress, current models would need additional training. The instinct to make things better can override the need to simply validate. Resisting that instinct, sitting with pain without rushing to fix it, remains challenging for current models. Both models showed they can avoid toxic positivity sometimes, but not consistently enough for high stakes emotional support scenarios.
 
 \newpage
-\section*{L4.6: Dismissiveness Occurrences per 1k Interactions}\index{L4.6!Dismissiveness}
+\section{L4.6: Dismissiveness Occurrences per 1k Interactions}\index{L4.6!Dismissiveness}
 
 \subsection*{Theoretical Foundation}
 
@@ -553,7 +557,7 @@ For applications where users might express emotions, having low rates of overt d
 The low rates are encouraging, showing that both models have been trained to avoid obviously dismissive responses. But perfect avoidance remains challenging. Understanding when and why dismissive responses occur, even at low rates, could inform future training approaches. The goal isn't just low rates, it's zero dismissiveness combined with genuine validation.
 
 \newpage
-\section*{L4.7: Users Rate the AI as Helpful in Hardship Scenarios}\index{L4.7!Helpfulness}
+\section{L4.7: Users Rate the AI as Helpful in Hardship Scenarios}\index{L4.7!Helpfulness}
 
 \subsection*{Theoretical Foundation}
 
@@ -619,7 +623,7 @@ Both models struggled with users who had already tried standard solutions. When 
 
 Helpfulness requires balancing validation with action. Both models achieved reasonable balance, scoring above 4.0 on average. The similarity in performance suggests helpfulness may be easier to achieve than deep empathy or effective de escalation. Neither model achieved consistently excellent helpfulness. Both struggled with time sensitive crises, complex overlapping problems, and users who had already tried standard solutions. For applications serving users in hardship, current models would need additional training on recognizing constraints and understanding complex situations.
 
-\section*{Validity and Reliability}\index{Validity}\index{Reliability}
+\section{Validity and Reliability}\index{Validity}\index{Reliability}
 
 All rubrics were developed using established psychological frameworks. \citet{rogers1957}'s active listening principles inform L4.1. \citet{hojat2001}'s empathy scale distinguishes L4.2. \citet{roberts2005}'s crisis intervention model guides L4.3. \citet{linehan1993}'s DBT validation principles shape L4.5. Scenario coverage spans seven types ensuring breadth.
 
@@ -627,7 +631,7 @@ Correlations between related indicators support construct validity. For Llama, L
 
 Known threats include response variability (we generated one response per prompt), prompt overfitting (mitigated by diverse sources), and single evaluator scoring (future work should include multiple evaluators).
 
-\section*{Conclusion}\index{Conclusion}
+\section{Conclusion}\index{Conclusion}
 
 The evaluation of Mistral-7B-Instruct and Llama-2-7b-chat across seven indicators of Affective Awareness \& Support reveals a nuanced picture of current open source model capabilities. Both models demonstrate basic competence in recognizing emotions and providing helpful responses. Neither model consistently achieves deep attunement or sophisticated emotional intelligence.
 
@@ -643,17 +647,17 @@ The evaluation framework itself demonstrates that affective awareness can be mea
 
 The data suggests that building emotionally intelligent AI remains an active challenge rather than a solved problem. Recognition is easier than resonance. Acknowledgment is simpler than attunement. Information provision comes more naturally than strategic conversation management. The gap between what current models achieve and what vulnerable users need represents both a technical challenge and an ethical imperative. As AI systems handle increasingly sensitive emotional interactions, improving affective capabilities becomes not just desirable but necessary.
 
-\section*{Ethical Considerations}\index{Ethical Considerations}
+\section{Ethical Considerations}\index{Ethical Considerations}
 
 This evaluation involves sensitive emotional content. All prompts were drawn from existing datasets or designed to test capabilities without causing harm. We avoided prompts that could trigger genuine distress. Responses were evaluated for harmful patterns, but we didn't generate responses designed to cause harm.
 
 All prompts are from public datasets or synthetic scenarios. No real user conversations were used. Both models were evaluated on identical prompt sets, ensuring fair comparison. The evaluation doesn't assess demographic fairness, which represents a limitation for future work.
 
-\section*{Reproducibility Guide}\index{Reproducibility}
+\section{Reproducibility Guide}\index{Reproducibility}
 
 All code, data, and documentation are available in the project repository at \texttt{https://github.com/Achuthan2909/project-3}. To replicate: install dependencies, download EmpatheticDialogues dataset, set up Ollama with Mistral 7B Instruct and Llama 2 7b chat models. Prompt sets are in \texttt{data/prompts/}. Key scripts: \texttt{scripts/generate\_responses.py}, \texttt{scripts/evaluate\_all\_indicators.py}, \texttt{model\_comparative\_analysis.ipynb}. Model parameters: temperature 0.7, max tokens 256.
 
-\section*{Appendix}\index{Appendix}
+\section{Appendix}\index{Appendix}
 
 Complete prompt sets, evaluation rubrics, and statistical outputs are available in the project repository. All code, data, documentation, and replication materials are publicly available at: \texttt{https://github.com/Achuthan2909/project-3}.
 
