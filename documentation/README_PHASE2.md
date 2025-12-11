@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Set Your Token
-Edit `data/generate_responses.py`:
+Edit `scripts/generate_responses.py`:
 ```python
 HF_TOKEN = "YOUR_ACTUAL_TOKEN_HERE"  # Replace with your token
 ```
@@ -32,14 +32,14 @@ export HF_TOKEN="your_token_here"
 
 ```bash
 # Basic usage (2 models, 3 runs each)
-python data/generate_responses.py \
+python scripts/generate_responses.py \
     --prompts data/prompts/emotional_cues_prompts.json \
     --output data/model_outputs \
     --models mistral llama2 \
     --runs 3
 
 # Single model
-python data/generate_responses.py \
+python scripts/generate_responses.py \
     --prompts data/prompts/hardship_scenarios.json \
     --models mistral \
     --runs 3
