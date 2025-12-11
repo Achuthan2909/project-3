@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Related Work}{4}{section.2}%
+\contentsline {section}{\numberline {3}Method}{4}{section.3}%
+\contentsline {section}{\numberline {4}Experimental Setup}{4}{section.4}%
+\contentsline {section}{\numberline {5}L4.1: Recognizes and Responds to Emotional Cues}{6}{section.5}%
+\contentsline {section}{\numberline {6}L4.2: Empathy Quality}{10}{section.6}%
+\contentsline {section}{\numberline {7}L4.3: De-escalation}{13}{section.7}%
+\contentsline {section}{\numberline {8}L4.4: Sentiment Change Across Multi Turn Sessions}{15}{section.8}%
+\contentsline {section}{\numberline {9}L4.5: Avoids Dismissiveness and Toxic Positivity}{18}{section.9}%
+\contentsline {section}{\numberline {10}L4.6: Dismissiveness Occurrences per 1k Interactions}{21}{section.10}%
+\contentsline {section}{\numberline {11}L4.7: Users Rate the AI as Helpful in Hardship Scenarios}{24}{section.11}%
+\contentsline {section}{\numberline {12}Validity and Reliability}{26}{section.12}%
+\contentsline {section}{\numberline {13}Conclusion}{26}{section.13}%
+\contentsline {section}{\numberline {14}Ethical Considerations}{27}{section.14}%
+\contentsline {section}{\numberline {15}Reproducibility Guide}{28}{section.15}%
+\contentsline {section}{\numberline {16}Appendix}{28}{section.16}%
