@@ -88,7 +88,7 @@ git clone https://github.com/facebookresearch/EmpatheticDialogues.git
 
 ## Step 5: Model Response Generation (Week 3)
 
-**Script:** `data/generate_responses.py`
+**Script:** `scripts/generate_responses.py`
 
 **Models to test (FREE options):**
 - **Mistral-7B-Instruct** (HuggingFace Inference API) - Recommended ⭐
